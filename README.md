@@ -61,6 +61,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## TODO
 - verifikasi data
+- sql syntax postgresql
 
 ## CHANGE LOG
 - penambahan data boundaries kelurahan/desa (done 24-12-03)
