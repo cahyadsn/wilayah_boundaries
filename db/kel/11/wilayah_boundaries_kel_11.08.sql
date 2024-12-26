@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.08.sql
 desc      : Data wilayah_boundaries kel di kab 11.08 Aceh Utara
 created_at: 2024-11-26 10:51:38
-updated_at: 2024-11-30 11:23:19
+updated_at: 2024-12-26 21:24:55
 author    : cahya dsn
 ================================================================================
 MIT License

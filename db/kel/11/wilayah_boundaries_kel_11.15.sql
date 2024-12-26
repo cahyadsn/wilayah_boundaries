@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.15.sql
 desc      : Data wilayah_boundaries kel di kab 11.15 Nagan Raya
 created_at: 2024-11-26 20:53:14
-updated_at: 2024-11-30 11:39:04
+updated_at: 2024-12-26 21:28:42
 author    : cahya dsn
 ================================================================================
 MIT License

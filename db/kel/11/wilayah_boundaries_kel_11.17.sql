@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.17.sql
 desc      : Data wilayah_boundaries kel di kab 11.17 Bener Meriah
 created_at: 2024-11-26 21:08:45
-updated_at: 2024-11-30 11:38:39
+updated_at: 2024-12-26 21:29:47
 author    : cahya dsn
 ================================================================================
 MIT License

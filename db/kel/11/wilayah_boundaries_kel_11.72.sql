@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.72.sql
 desc      : Data wilayah_boundaries kel di kab 11.72 Kota Sabang
 created_at: 2024-11-26 21:40:54
-updated_at: 2024-11-30 11:40:32
+updated_at: 2024-12-26 21:31:05
 author    : cahya dsn
 ================================================================================
 MIT License

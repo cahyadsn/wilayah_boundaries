@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.75.sql
 desc      : Data wilayah_boundaries kel di kab 11.75 Kota Subulussalam
 created_at: 2024-11-26 21:50:40
-updated_at: 2024-11-30 11:41:07
+updated_at: 2024-12-26 21:45:43
 author    : cahya dsn
 ================================================================================
 MIT License

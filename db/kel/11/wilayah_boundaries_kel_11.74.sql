@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.74.sql
 desc      : Data wilayah_boundaries kel di kab 11.74 Kota Langsa
 created_at: 2024-11-26 21:47:27
-updated_at: 2024-11-30 11:40:55
+updated_at: 2024-12-26 21:45:17
 author    : cahya dsn
 ================================================================================
 MIT License

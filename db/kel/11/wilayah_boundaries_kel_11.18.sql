@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/11/wilayah_boundaries_kel_11.18.sql
 desc      : Data wilayah_boundaries kel di kab 11.18 Pidie Jaya
 created_at: 2024-11-26 21:25:50
-updated_at: 2024-11-30 11:40:09
+updated_at: 2024-12-26 21:30:15
 author    : cahya dsn
 ================================================================================
 MIT License
