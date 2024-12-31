@@ -59,11 +59,13 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
-## WHAT'S NEW 
-- menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
-
 ## TODO
+- menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
 - verifikasi data
+
+## CHANGE LOG
+- memperbaiki sintak SQL di data kel/desa (2412312233)
+- menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
 
 ## CHANGE LOG
 - memperbaiki tanda di akhir file SQL untuk data kelurahan/desa  (done 24-12-30)
