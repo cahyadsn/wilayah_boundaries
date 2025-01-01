@@ -66,8 +66,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 ## CHANGE LOG
 - memperbaiki sintak SQL di data kel/desa (2412312233)
 - menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
-
-## CHANGE LOG
 - memperbaiki tanda di akhir file SQL untuk data kelurahan/desa  (done 24-12-30)
 - penambahan data boundaries kelurahan/desa (done 24-12-03)
 - penambahan data boundaries kecamatan (done 2024-11-25)
