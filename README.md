@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
+- menambahkan data desa/kel dari kab Fak-fak (2501022019)
 - memperbaiki sintak SQL di data kel/desa (2412312233)
 - menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
 - memperbaiki tanda di akhir file SQL untuk data kelurahan/desa  (done 24-12-30)
