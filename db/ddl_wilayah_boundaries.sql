@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/ddl_wilayah_boundaries.sql
 desc      : DDL table wilayah_boundaries
 created_at: 2024-11-20 11:25:23
-updated_at: 2024-12-25 09:49:29
+updated_at: 2025-01-12 09:21:32
 author    : cahya dsn
 ================================================================================
 MIT License
@@ -34,14 +34,14 @@ copyright (c) 2024 by cahya dsn; cahyadsn@gmail.com
 -- MySQL
 DROP TABLE IF EXISTS `wilayah_boundaries`;
 CREATE TABLE `wilayah_boundaries` (
-  `kode` varchar(13) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL,
-  `nama` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `kode` varchar(13) NOT NULL,
+  `nama` varchar(100) DEFAULT NULL,
   `lat` double DEFAULT NULL,
   `lng` double DEFAULT NULL,
-  `path` longtext CHARACTER SET utf8mb4 COLLATE utf8_general_ci,
+  `path` longtext DEFAULT NULL,
   `status` int DEFAULT NULL,
   UNIQUE KEY `wilayah_boundaries_kode_IDX` (`kode`) USING BTREE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ENGINE=InnoDB;
 
 -- PostgreSQL
 DROP TABLE IF EXISTS "wilayah_boundaries";
