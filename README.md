@@ -60,6 +60,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
 ## TODO
+- update data kode wilayah sesuai Kepmendagri No 300.2.2-2138 th 2025
 - menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
 - verifikasi data
 
