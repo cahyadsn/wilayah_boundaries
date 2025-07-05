@@ -78,7 +78,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - penambahan data boundaries provinsi (done 2024-11-21)
 
 ## DONASI
-## DONASI
 - untuk donasi via transfer
     - Bank BCA Digital (Blu) (501) 000 576 776 186
     - Bank Jago (542) 5003 5796 1022
