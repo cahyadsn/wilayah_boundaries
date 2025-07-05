@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/ddl_wilayah_boundaries.sql
 desc      : DDL table wilayah_boundaries
 created_at: 2024-11-20 11:25:23
-updated_at: 2025-01-12 09:21:32
+updated_at: 2025-07-05 23:08:08
 author    : cahya dsn
 ================================================================================
 MIT License
@@ -27,7 +27,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-copyright (c) 2024 by cahya dsn; cahyadsn@gmail.com
+copyright (c) 2025 by cahya dsn; cahyadsn@gmail.com
 ================================================================================
 */
 
@@ -44,6 +44,7 @@ CREATE TABLE `wilayah_boundaries` (
 ) ENGINE=InnoDB;
 
 -- PostgreSQL
+/*
 DROP TABLE IF EXISTS "wilayah_boundaries";
 CREATE TABLE "wilayah_boundaries" (
   "kode" VARCHAR(13) NOT NULL,
@@ -54,3 +55,4 @@ CREATE TABLE "wilayah_boundaries" (
   "status" INT2 DEFAULT NULL,
   PRIMARY KEY ("kode")
 );
+*/
