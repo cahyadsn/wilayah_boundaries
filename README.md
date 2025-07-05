@@ -64,7 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
-- update data kode wilayah kab/kota di provinsi Papua Barat dan Papua Barat Daya (2507052339)
+- update data kode wilayah kab/kota di provinsi-provinsi Papua (2507052339)
 - update data kode wilayah provinsi sesuai Kepmendagri No 300.2.2-2138 th 2025 (2507052334)
 
 - mengubah SQL untuk DDL tabel wilayah_boundaries (2501120725)
