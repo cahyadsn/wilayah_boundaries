@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
+- update data kode wilayah kab/kota di provinsi-provinsi Bali Nusra (2507061005)
 - update data kode wilayah kab/kota di provinsi-provinsi Kalimantan (2507060952)
 - update data kode wilayah kab/kota di provinsi-provinsi Sulawesi dan Maluku (2507060534)
 - update data kode wilayah kab/kota di provinsi-provinsi Papua (2507052339)
