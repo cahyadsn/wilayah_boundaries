@@ -60,7 +60,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## TODO
 - update data kode wilayah kab/kota,kec,desa/kelurahan sesuai Kepmendagri No 300.2.2-2138 th 2025
-- menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
+- menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 - verifikasi data
 
 ## CHANGE LOG
