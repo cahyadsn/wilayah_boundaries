@@ -40,8 +40,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 74      | Sulawesi Tenggara         |    15/15  |  2/2  |    /221  |     /379  |     /1908  |
 | 75      | Gorontalo                 |     5/ 5  |  1/1  |    / 77  |     / 72  |     / 657  |
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |    / 69  |     / 73  |     / 575  |
-| 81      | Maluku                    |     9/ 9  |  2/2  |    /119  |     / 35  |     /1200  |
-| 82      | Maluku Utara              |     8/ 8  |  2/2  |    /118  |     /118  |     /1067  |
+| 81      | Maluku                    |     9/ 9  |  2/2  | 118/119  |     / 35  |     /1200  |
+| 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |     /118  |     /1067  |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |     / 51  |     / 948  |
 | 92      | Papua Barat               |     7/ 7  |   -   |  86/ 91  |     / 21  |     / 803  |
 | 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |     / 13  |     / 677  |
@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
+- update data kode wilayah kecamatan di Maluku (2507062049)
 - update data kode wilayah kecamatan di Bali Nusra (2507061949)
 - update data kode wilayah kecamatan di Papua (2507061911)
 - update data kode wilayah kecamatan di Sumatera dan Jawa (2507061428)
