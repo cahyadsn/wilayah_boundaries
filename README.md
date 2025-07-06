@@ -42,12 +42,12 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |    / 69  |     / 73  |     / 575  |
 | 81      | Maluku                    |     9/ 9  |  2/2  |    /119  |     / 35  |     /1200  |
 | 82      | Maluku Utara              |     8/ 8  |  2/2  |    /118  |     /118  |     /1067  |
-| 91      | Papua                     |     8/ 8  |  1/1  |    /105  |     / 51  |     / 948  |
-| 92      | Papua Barat               |     7/ 7  |   -   |    / 91  |     / 21  |     / 803  |
-| 93      | Papua Selatan             |     4/ 4  |   -   |    / 82  |     / 13  |     / 677  |
-| 94      | Papua Tengah              |     8/ 8  |   -   |    /131  |     / 36  |     /1172  |
-| 95      | Papua Pegunungan          |     8/ 8  |   -   |    /252  |     / 10  |     /2617  |
-| 96*     | Papua Barat Daya          |     5/ 5  |  1/1  |    /132  |     / 74  |     / 939  |
+| 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |     / 51  |     / 948  |
+| 92      | Papua Barat               |     7/ 7  |   -   |  86/ 91  |     / 21  |     / 803  |
+| 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |     / 13  |     / 677  |
+| 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |     / 36  |     /1172  |
+| 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |     / 10  |     /2617  |
+| 96*     | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |     / 74  |     / 939  |
 
 ## NOTE
 * Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
+- update data kode wilayah kecamatan di  Papua (2507061911)
 - update data kode wilayah kecamatan di Sumatera dan Jawa (2507061428)
 - update data kode wilayah kab/kota di Sumatera (2507061348)
 - update data kode wilayah kab/kota di Jawa (2507061301)
