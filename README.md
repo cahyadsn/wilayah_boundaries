@@ -26,9 +26,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |     / 46  |     / 392  |
 | 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |     /773  |     /7721  |
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |     /314  |     /1238  |
-| 51      | Bali                      |     8/ 8  |  1/1  |    / 57  |     / 80  |     / 636  |
-| 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  |    /117  |     /145  |     /1021  |
-| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  |    /315  |     /305  |     /3137  |
+| 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |     / 80  |     / 636  |
+| 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |     /145  |     /1021  |
+| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |     /305  |     /3137  |
 | 61      | Kalimantan Barat          |    12/12  |  2/2  |    /174  |     / 99  |     /2046  |
 | 62      | Kalimantan Tengah         |    13/13  |  1/1  |    /136  |     /139  |     /1432  |
 | 63      | Kalimantan Selatan        |    11/11  |  2/2  |    /156  |     /144  |     /1872  |
@@ -64,7 +64,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
-- update data kode wilayah kecamatan di  Papua (2507061911)
+- update data kode wilayah kecamatan di Bali Nusra (2507061949)
+- update data kode wilayah kecamatan di Papua (2507061911)
 - update data kode wilayah kecamatan di Sumatera dan Jawa (2507061428)
 - update data kode wilayah kab/kota di Sumatera (2507061348)
 - update data kode wilayah kab/kota di Jawa (2507061301)
