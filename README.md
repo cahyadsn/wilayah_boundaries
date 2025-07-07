@@ -9,7 +9,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana)
 
 | id_prov | nama                      |    kab    | kota  |   kec    |    kel    |    desa    |
-|---------|---------------------------|----------:|------:|----------|----------:|-----------:|
+|---------|:--------------------------|----------:|------:|----------|----------:|-----------:|
 | 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6495/6500* |
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |     /693  |     /5417  |
 | 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |     /230  |     /1035  |
