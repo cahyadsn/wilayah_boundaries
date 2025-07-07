@@ -10,7 +10,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 | id_prov | nama                      |    kab    | kota  |   kec    |    kel    |    desa    |
 |---------|---------------------------|----------:|------:|----------|----------:|-----------:|
-| 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     |     /6500  |
+| 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6495/6500* |
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |     /693  |     /5417  |
 | 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |     /230  |     /1035  |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |     /271  |     /1591  |
@@ -20,10 +20,10 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 18      | Lampung                   |    13/13  |  2/2  | 229/229  |     /205  |     /2446  |
 | 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |     / 84  |     / 309  |
 | 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |     /144  |     / 275  |
-| 31      | DKI Jakarta               |     1/ 1  |  5/5  |  44/ 44  |     /267  |     -      |
+| 31      | DKI Jakarta               |     1/ 1  |  5/5  |  44/ 44  |  267/267  |     -      |
 | 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |     /646  |     /5311  |
 | 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |     /753  |     /7810  |
-| 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |     / 46  |     / 392  |
+| 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |   46/ 46  |  392/ 392  |
 | 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |     /773  |     /7721  |
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |     /314  |     /1238  |
 | 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |     / 80  |     / 636  |
