@@ -50,47 +50,46 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 96*     | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |     / 74  |     / 939  |
 
 ## NOTE
+* )* data belum lengkap
 * Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
 * Karena keterbatasan resources, wilayah boundaries berupa multipoliygon yang di simplified, untuk resolusi yang lebih tinggi akan dibuatkan repo tersendiri
 
 ## TAUTAN TERKAIT
-- )* data belum lengkap
-- Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
-- Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
-- Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
+* Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
+* Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
+* Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
 ## TODO
-- update data kode wilayah kab/kota,kec,desa/kelurahan sesuai Kepmendagri No 300.2.2-2138 th 2025
-- menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
-- verifikasi data
+* update data kode wilayah kab/kota,kec,desa/kelurahan sesuai Kepmendagri No 300.2.2-2138 th 2025
+* menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
+* verifikasi data
 
 ## CHANGE LOG
-- update data kode wilayah desa/kel di DI Yogyakarta (2507071459)
-- update data kode wilayah desa/kel di DKI Jakarta (2507071442)
-- update data kode wilayah desa/kel di Aceh (2507071414)
-- update data kode wilayah kecamatan di Sulawesi (2507070812)
-- update data kode wilayah kecamatan di Kalimantan (2507062239)
-- update data kode wilayah kecamatan di Maluku (2507062049)
-- update data kode wilayah kecamatan di Bali Nusra (2507061949)
-- update data kode wilayah kecamatan di Papua (2507061911)
-- update data kode wilayah kecamatan di Sumatera dan Jawa (2507061428)
-- update data kode wilayah kab/kota di Sumatera (2507061348)
-- update data kode wilayah kab/kota di Jawa (2507061301)
-- update data kode wilayah kab/kota di Bali Nusra (2507061005)
-- update data kode wilayah kab/kota di Kalimantan (2507060952)
-- update data kode wilayah kab/kota di Sulawesi dan Maluku (2507060534)
-- update data kode wilayah kab/kota di Papua (2507052339)
-- update data kode wilayah provinsi sesuai Kepmendagri No 300.2.2-2138 th 2025 (2507052334)
-
-- mengubah SQL untuk DDL tabel wilayah_boundaries (2501120725)
-- menambahkan data desa/kel dari kab Fak-fak (2501022019)
-- memperbaiki sintak SQL di data kel/desa (2412312233)
-- menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
-- memperbaiki tanda di akhir file SQL untuk data kelurahan/desa  (done 24-12-30)
-- penambahan data boundaries kelurahan/desa (done 24-12-03)
-- penambahan data boundaries kecamatan (done 2024-11-25)
-- penambahan data boundaries kabupaten/kota (done 2024-11-24)
-- penambahan data boundaries provinsi (done 2024-11-21)
+* update data kode wilayah desa/kel di DI Yogyakarta (2507071459)
+* update data kode wilayah desa/kel di DKI Jakarta (2507071442)
+* update data kode wilayah desa/kel di Aceh (2507071414)
+* update data kode wilayah kecamatan di Sulawesi (2507070812)
+* update data kode wilayah kecamatan di Kalimantan (2507062239)
+* update data kode wilayah kecamatan di Maluku (2507062049)
+* update data kode wilayah kecamatan di Bali Nusra (2507061949)
+* update data kode wilayah kecamatan di Papua (2507061911)
+* update data kode wilayah kecamatan di Sumatera dan Jawa (2507061428)
+* update data kode wilayah kab/kota di Sumatera (2507061348)
+* update data kode wilayah kab/kota di Jawa (2507061301)
+* update data kode wilayah kab/kota di Bali Nusra (2507061005)
+* update data kode wilayah kab/kota di Kalimantan (2507060952)
+* update data kode wilayah kab/kota di Sulawesi dan Maluku (2507060534)
+* update data kode wilayah kab/kota di Papua (2507052339)
+* update data kode wilayah provinsi sesuai Kepmendagri No 300.2.2-2138 th 2025 (2507052334)
+* mengubah SQL untuk DDL tabel wilayah_boundaries (2501120725)
+* menambahkan data desa/kel dari kab Fak-fak (2501022019)
+* memperbaiki sintak SQL di data kel/desa (2412312233)
+* menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
+* memperbaiki tanda di akhir file SQL untuk data kelurahan/desa  (done 24-12-30)
+* penambahan data boundaries kelurahan/desa (done 24-12-03)
+* penambahan data boundaries kecamatan (done 2024-11-25)
+* penambahan data boundaries kabupaten/kota (done 2024-11-24)
+* penambahan data boundaries provinsi (done 2024-11-21)
 
 ## DONASI
 - untuk donasi via transfer
