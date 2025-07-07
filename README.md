@@ -34,16 +34,16 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |     /144  |     /1872  |
 | 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |     /197  |     / 841  |
 | 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |     / 35  |     / 447  |
-| 71      | Sulawesi Utara            |    11/11  |  4/4  |    /171  |     /332  |     /1507  |
-| 72      | Sulawesi Tengah           |    12/12  |  1/1  |    /177  |     /175  |     /1842  |
-| 73      | Sulawesi Selatan          |    21/21  |  3/3  |    /313  |     /793  |     /2266  |
-| 74      | Sulawesi Tenggara         |    15/15  |  2/2  |    /221  |     /379  |     /1908  |
-| 75      | Gorontalo                 |     5/ 5  |  1/1  |    / 77  |     / 72  |     / 657  |
-| 76      | Sulawesi Barat            |     6/ 6  |  0/0  |    / 69  |     / 73  |     / 575  |
-| 81      | Maluku                    |     9/ 9  |  2/2  | 118/119  |     / 35  |     /1200  |
+| 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |     /332  |     /1507  |
+| 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |     /175  |     /1842  |
+| 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |     /793  |     /2266  |
+| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |     /379  |     /1908  |
+| 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |     / 72  |     / 657  |
+| 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |     / 73  |     / 575  |
+| 81      | Maluku                    |     9/ 9  |  2/2  | 118/119* |     / 35  |     /1200  |
 | 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |     /118  |     /1067  |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |     / 51  |     / 948  |
-| 92      | Papua Barat               |     7/ 7  |   -   |  86/ 91  |     / 21  |     / 803  |
+| 92      | Papua Barat               |     7/ 7  |   -   |  86/ 91* |     / 21  |     / 803  |
 | 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |     / 13  |     / 677  |
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |     / 36  |     /1172  |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |     / 10  |     /2617  |
@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - verifikasi data
 
 ## CHANGE LOG
+- update data kode wilayah kecamatan di Sulawesi (2507070812)
 - update data kode wilayah kecamatan di Kalimantan (2507062239)
 - update data kode wilayah kecamatan di Maluku (2507062049)
 - update data kode wilayah kecamatan di Bali Nusra (2507061949)
