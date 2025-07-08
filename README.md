@@ -38,7 +38,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |     /175  |     /1842  |
 | 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |     /793  |     /2266  |
 | 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |     /379  |     /1908  |
-| 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |     / 72  |     / 657  |
+| 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |   72/ 72  |  657/ 657  |
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |     / 73  |     / 575  |
 | 81      | Maluku                    |     9/ 9  |  2/2  | 118/119* |     / 35  |     /1200  |
 | 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |     /118  |     /1067  |
