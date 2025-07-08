@@ -44,7 +44,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |     /118  |     /1067  |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |     / 51  |     / 948  |
 | 92      | Papua Barat               |     7/ 7  |   -   |  86/ 91* |     / 21  |     / 803  |
-| 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |     / 13  |     / 677  |
+| 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  674/ 677* |
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |     / 36  |     /1172  |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |     / 10  |     /2617  |
 | 96*     | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |     / 74  |     / 939  |
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Papua Selatan (2507080846)
 * update data kode wilayah desa/kel di Gorontalo (2507080822)
 * update data kode wilayah desa/kel di DI Yogyakarta (2507071459)
 * update data kode wilayah desa/kel di DKI Jakarta (2507071442)
