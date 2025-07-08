@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Gorontalo (2507080822)
 * update data kode wilayah desa/kel di DI Yogyakarta (2507071459)
 * update data kode wilayah desa/kel di DKI Jakarta (2507071442)
 * update data kode wilayah desa/kel di Aceh (2507071414)
