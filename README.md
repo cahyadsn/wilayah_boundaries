@@ -47,7 +47,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  674/ 677* |
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |     / 36  |     /1172  |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |     / 10  |     /2617  |
-| 96*     | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |     / 74  |     / 939  |
+| 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |     / 74  |     / 939  |
 
 ## NOTE
 * )* data belum lengkap
