@@ -1,9 +1,9 @@
 /*
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
-filename  : db/kel/92/wilayah_boundaries_kel_92.71.sql
+filename  : db/kel/96/wilayah_boundaries_kel_96.71.sql
 desc      : Data wilayah_boundaries kel 92.71
-created_at: 2024-12-01 07:43:57
+created_at: 2025-07-09 11:36:41
 updated_at: 2024-12-30 09:22:29
 author    : cahya dsn
 ================================================================================
