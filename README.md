@@ -50,7 +50,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
 
 ## NOTE
-* )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/notes.md
+* )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
 * Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
 * Karena keterbatasan resources, wilayah boundaries berupa multipoliygon yang di simplified, untuk resolusi yang lebih tinggi akan dibuatkan repo tersendiri
 
