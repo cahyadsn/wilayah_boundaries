@@ -33,7 +33,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |     /139  |     /1432  |
 | 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |     /144  |     /1872  |
 | 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |     /197  |     / 841  |
-| 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |     / 35  |     / 447  |
+| 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |   35/ 35  |  447/ 447  |
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |     /332  |     /1507  |
 | 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |     /175  |     /1842  |
 | 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |     /793  |     /2266  |
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Kalimantan Utara (2507102206)
 * update data kode wilayah desa/kel di Bali (2507102033)
 * update data kode wilayah desa/kel di Papua Barat (2507101622)
 * menambah data kode wilayah desa/kel untuk kabupaten Kaimana (2507101607) 
