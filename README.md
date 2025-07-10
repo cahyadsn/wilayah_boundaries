@@ -11,37 +11,37 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | id_prov | nama                      |    kab    | kota  |   kec    |    kel    |    desa    |
 |---------|:--------------------------|----------:|------:|----------|----------:|-----------:|
 | 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6495/6500* |
-| 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |     /693  |     /5417  |
-| 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |     /230  |     /1035  |
-| 14      | Riau                      |    10/10  |  2/2  | 172/172  |     /271  |     /1591  |
-| 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |     /171  |     /1414  |
-| 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |     /403  |     /2856  |
-| 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |     /172  |     /1341  |
-| 18      | Lampung                   |    13/13  |  2/2  | 229/229  |     /205  |     /2446  |
-| 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |     / 84  |     / 309  |
-| 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |     /144  |     / 275  |
+| 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |    ?/693  |    ?/5417  |
+| 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |    ?/230  |    ?/1035  |
+| 14      | Riau                      |    10/10  |  2/2  | 172/172  |    ?/271  |    ?/1591  |
+| 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |    ?/171  |    ?/1414  |
+| 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |    ?/403  |    ?/2856  |
+| 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |    ?/172  |    ?/1341  |
+| 18      | Lampung                   |    13/13  |  2/2  | 229/229  |    ?/205  |    ?/2446  |
+| 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |    ?/ 84  |    ?/ 309  |
+| 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |    ?/144  |    ?/ 275  |
 | 31      | DKI Jakarta               |     1/ 1  |  5/5  |  44/ 44  |  267/267  |     -      |
-| 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |     /646  |     /5311  |
-| 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |     /753  |     /7810  |
+| 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |    ?/646  |    ?/5311  |
+| 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |    ?/753  |    ?/7810  |
 | 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |   46/ 46  |  392/ 392  |
-| 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |     /773  |     /7721  |
-| 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |     /314  |     /1238  |
+| 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |    ?/773  |    ?/7721  |
+| 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |    ?/314  |    ?/1238  |
 | 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |   80/ 80  |  636/ 636  |
-| 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |     /145  |     /1021  |
-| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |     /305  |     /3137  |
-| 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |     / 99  |     /2046  |
-| 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |     /139  |     /1432  |
-| 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |     /144  |     /1872  |
-| 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |     /197  |     / 841  |
+| 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |    ?/145  |    ?/1021  |
+| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |    ?/305  |    ?/3137  |
+| 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |    ?/ 99  |    ?/2046  |
+| 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |    ?/139  |    ?/1432  |
+| 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |    ?/144  |    ?/1872  |
+| 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |    ?/197  |    ?/ 841  |
 | 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |   35/ 35  |  447/ 447  |
-| 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |     /332  |     /1507  |
-| 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |     /175  |     /1842  |
-| 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |     /793  |     /2266  |
-| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |     /379  |     /1908  |
+| 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |    ?/332  |    ?/1507  |
+| 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |    ?/175  |    ?/1842  |
+| 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |    ?/793  |    ?/2266  |
+| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |    ?/379  |    ?/1908  |
 | 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |   72/ 72  |  657/ 657  |
-| 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |     / 73  |     / 575  |
-| 81      | Maluku                    |     9/ 9  |  2/2  | 118/119* |     / 35  |     /1200  |
-| 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |     /118  |     /1067  |
+| 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |    ?/ 73  |    ?/ 575  |
+| 81      | Maluku                    |     9/ 9  |  2/2  | 118/119* |    ?/ 35  |    ?/1200  |
+| 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |    ?/118  |    ?/1067  |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |   51/ 51  |  947/ 948* |
 | 92      | Papua Barat               |     7/ 7  |   -   |  86/ 91* |   21/ 21  |  803/ 803  |
 | 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  674/ 677* |
@@ -51,6 +51,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
+* )? data dalam pengecekan
 * Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
 * Karena keterbatasan resources, wilayah boundaries berupa multipoliygon yang di simplified, untuk resolusi yang lebih tinggi akan dibuatkan repo tersendiri
 
