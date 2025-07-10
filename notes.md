@@ -20,6 +20,8 @@
 | 11.16.08.2017 | Mekar Jaya           |
 | 11.16.11.2006 | Sumber Makmu         |
 | 11.73.03.2022 | Seuneubok            |
+| 19.05.01.1008 | Keranggan            |
+| 19.05.01.1009 | Menjelang            |
 | 21.04.02.1002 | Daik Sepincan        |
 | 21.04.09.1004 | Berlian              |
 | 91.10.13.2003 | Waskey/Tanjung Batu  |
