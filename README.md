@@ -26,7 +26,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |   46/ 46  |  392/ 392  |
 | 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |     /773  |     /7721  |
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |     /314  |     /1238  |
-| 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |     / 80  |     / 636  |
+| 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |   80/ 80  |  636/ 636  |
 | 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |     /145  |     /1021  |
 | 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |     /305  |     /3137  |
 | 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |     / 99  |     /2046  |
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Bali (2507102033)
 * update data kode wilayah desa/kel di Papua Barat (2507101622)
 * menambah data kode wilayah desa/kel untuk kabupaten Kaimana (2507101607) 
 * update data kode wilayah desa/kel di Papua (2507101306)
