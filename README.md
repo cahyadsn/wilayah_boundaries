@@ -12,7 +12,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 |---------|:--------------------------|----------:|------:|----------|----------:|-----------:|
 | 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6495/6500* |
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |  693/693  | 5417/5417  |
-| 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |    ?/230  |    ?/1035  |
+| 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |  230/230  |  929/1035* |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |    ?/271  |    ?/1591  |
 | 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  169/171* | 1399/1414* |
 | 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |    ?/403  |    ?/2856  |
@@ -66,6 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Sumatera Barat (2507111703)
 * update data kode wilayah desa/kel di Sumatera Utara (2507111428)
 * update data kode wilayah desa/kel di Bengkulu (2507111140)
 * update data kode wilayah desa/kel di Jambi (2507110845)
