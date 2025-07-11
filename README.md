@@ -14,7 +14,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |    ?/693  |    ?/5417  |
 | 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |    ?/230  |    ?/1035  |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |    ?/271  |    ?/1591  |
-| 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |    ?/171  |    ?/1414  |
+| 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  169/171* | 1399/1414* |
 | 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |    ?/403  |    ?/2856  |
 | 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |    ?/172  |    ?/1341  |
 | 18      | Lampung                   |    13/13  |  2/2  | 229/229  |    ?/205  |    ?/2446  |
@@ -66,6 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di  Jambi (2507110845)
 * update data kode wilayah desa/kel di Kepulauan Bangka Belitung (2507102320)
 * update data kode wilayah desa/kel di Kepulauan Riau (2507102245)
 * update data kode wilayah desa/kel di Kalimantan Utara (2507102206)

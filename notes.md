@@ -20,6 +20,23 @@
 | 11.16.08.2017 | Mekar Jaya           |
 | 11.16.11.2006 | Sumber Makmu         |
 | 11.73.03.2022 | Seuneubok            |
+| 15.09.02.2018 | Kemantan             |
+| 15.09.04.1009 | Sarana Agung         |
+| 15.09.04.1010 | Mandiri Agung        |
+| 15.09.04.2011 | Mekar Kencana        |
+| 15.09.04.2012 | Purwo Dadi           |
+| 15.09.04.2013 | Tegal Asri           |
+| 15.09.04.2014 | Perintis Jaya        |
+| 15.09.04.2015 | Perintis Makmur      |
+| 15.09.04.2016 | Jaya Mulya           |
+| 15.09.07.2007 | Mekar Sari           |
+| 15.09.07.2008 | Wana Arum            |
+| 15.09.07.2009 | Wana Mulya           |
+| 15.09.07.2010 | Damai Makmur         |
+| 15.09.07.2011 | Suka Jaya            |
+| 15.09.07.2012 | Sido Mulyo           |
+| 15.09.08.2010 | Giri Mulyo           |
+| 15.09.09.2006 | Lubuk Mandarsah Ulu  |
 | 19.05.01.1008 | Keranggan            |
 | 19.05.01.1009 | Menjelang            |
 | 21.04.02.1002 | Daik Sepincan        |
