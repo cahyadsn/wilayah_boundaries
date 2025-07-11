@@ -127,71 +127,74 @@
 | 13.12.11.2003 | Ranah Pasisie               |
 | 13.12.11.2004 | Maligi                      |
 | 15.09.02.2018 | Kemantan                    |
-| 15.09.04.1009 | Sarana Agung               |
-| 15.09.04.1010 | Mandiri Agung              |
-| 15.09.04.2011 | Mekar Kencana              |
-| 15.09.04.2012 | Purwo Dadi                 |
-| 15.09.04.2013 | Tegal Asri                 |
-| 15.09.04.2014 | Perintis Jaya              |
-| 15.09.04.2015 | Perintis Makmur            |
-| 15.09.04.2016 | Jaya Mulya                 |
-| 15.09.07.2007 | Mekar Sari                 |
-| 15.09.07.2008 | Wana Arum                  |
-| 15.09.07.2009 | Wana Mulya                 |
-| 15.09.07.2010 | Damai Makmur               |
-| 15.09.07.2011 | Suka Jaya                  |
-| 15.09.07.2012 | Sido Mulyo                 |
-| 15.09.08.2010 | Giri Mulyo                 |
-| 15.09.09.2006 | Lubuk Mandarsah Ulu        |
-| 19.05.01.1008 | Keranggan                  |
-| 19.05.01.1009 | Menjelang                  |
-| 21.04.02.1002 | Daik Sepincan              |
-| 21.04.09.1004 | Berlian                    |
-| 91.10.13.2003 | Waskey/Tanjung Batu        |
-| 93.04.10.2001 | Komor                      |
-| 93.04.18.2004 | Sato Yod                   |
-| 93.04.18.2006 | Ero Airo                   |
-| 94.02.14.2005 | Ginigom                    |
-| 94.02.19.2013 | Anggalo                    |
-| 94.03.01.2010 | Oyaigo                     |
-| 94.03.01.2013 | Geko                       |
-| 94.03.01.2014 | Mugimeketago               |
-| 94.03.01.2015 | Tuamakida                  |
-| 94.03.01.2016 | Geibu                      |
-| 94.03.01.2018 | Kogekotu                   |
-| 94.03.01.2026 | Yagiyo Butu                |
-| 94.03.03.2002 | Agapo                      |
-| 94.03.03.2006 | Makidini                   |
-| 94.03.04.2005 | Yumauwo                    |
-| 94.03.10.2008 | Dabamomaida                |
-| 94.05.13.2001 | Aguit                      |
-| 94.05.13.2003 | Molu                       |
-| 94.05.13.2004 | Belaba                     |
-| 94.05.14.2002 | Bina                       |
-| 94.05.16.2003 | Amuleme                    |
-| 95.04.07.2003 | Bimbogul                   |
-| 95.04.07.2004 | Yugumengga                 |
-| 95.04.07.2005 | Wariru                     |
-| 95.04.07.2006 | Yugubuk                    |
-| 95.04.07.2007 | Akima                      |
-| 95.04.07.2008 | Malela                     |
-| 95.04.07.2009 | Nakwil                     |
-| 95.04.07.2011 | Holandia                   |
-| 95.04.07.2012 | Tawi                       |
-| 95.04.19.2002 | Kokondao                   |
-| 95.04.19.2010 | Gilo                       |
-| 95.04.19.2014 | Kanggineri                 |
-| 95.04.19.2015 | Wonoluk                    |
-| 95.04.19.2020 | Tinoweno                   |
-| 95.04.19.2021 | Mololowa                   |
-| 95.04.19.2022 | Kunipaga                   |
-| 95.04.19.2023 | Kabumanggen                |
-| 95.04.19.2026 | Tomobur                    |
-| 95.04.29.2002 | Wari/Taiyeve               |
-| 95.04.29.2004 | Dotori                     |
-| 95.04.29.2006 | Kowari                     |
-| 95.04.30.2003 | Prawa                      |
-| 95.04.30.2004 | Sigou                      |
-| 95.04.30.2006 | Warka                      |
+| 14.72.03.1006 | Bagan Besar Timur           |
+| 14.72.03.1007 | Bukit Kapur                 |
+| 14.72.04.1006 | Sungai Geniot               |
+| 15.09.04.1009 | Sarana Agung                |
+| 15.09.04.1010 | Mandiri Agung               |
+| 15.09.04.2011 | Mekar Kencana               |
+| 15.09.04.2012 | Purwo Dadi                  |
+| 15.09.04.2013 | Tegal Asri                  |
+| 15.09.04.2014 | Perintis Jaya               |
+| 15.09.04.2015 | Perintis Makmur             |
+| 15.09.04.2016 | Jaya Mulya                  |
+| 15.09.07.2007 | Mekar Sari                  |
+| 15.09.07.2008 | Wana Arum                   |
+| 15.09.07.2009 | Wana Mulya                  |
+| 15.09.07.2010 | Damai Makmur                |
+| 15.09.07.2011 | Suka Jaya                   |
+| 15.09.07.2012 | Sido Mulyo                  |
+| 15.09.08.2010 | Giri Mulyo                  |
+| 15.09.09.2006 | Lubuk Mandarsah Ulu         |
+| 19.05.01.1008 | Keranggan                   |
+| 19.05.01.1009 | Menjelang                   |
+| 21.04.02.1002 | Daik Sepincan               |
+| 21.04.09.1004 | Berlian                     |
+| 91.10.13.2003 | Waskey/Tanjung Batu         |
+| 93.04.10.2001 | Komor                       |
+| 93.04.18.2004 | Sato Yod                    |
+| 93.04.18.2006 | Ero Airo                    |
+| 94.02.14.2005 | Ginigom                     |
+| 94.02.19.2013 | Anggalo                     |
+| 94.03.01.2010 | Oyaigo                      |
+| 94.03.01.2013 | Geko                        |
+| 94.03.01.2014 | Mugimeketago                |
+| 94.03.01.2015 | Tuamakida                   |
+| 94.03.01.2016 | Geibu                       |
+| 94.03.01.2018 | Kogekotu                    |
+| 94.03.01.2026 | Yagiyo Butu                 |
+| 94.03.03.2002 | Agapo                       |
+| 94.03.03.2006 | Makidini                    |
+| 94.03.04.2005 | Yumauwo                     |
+| 94.03.10.2008 | Dabamomaida                 |
+| 94.05.13.2001 | Aguit                       |
+| 94.05.13.2003 | Molu                        |
+| 94.05.13.2004 | Belaba                      |
+| 94.05.14.2002 | Bina                        |
+| 94.05.16.2003 | Amuleme                     |
+| 95.04.07.2003 | Bimbogul                    |
+| 95.04.07.2004 | Yugumengga                  |
+| 95.04.07.2005 | Wariru                      |
+| 95.04.07.2006 | Yugubuk                     |
+| 95.04.07.2007 | Akima                       |
+| 95.04.07.2008 | Malela                      |
+| 95.04.07.2009 | Nakwil                      |
+| 95.04.07.2011 | Holandia                    |
+| 95.04.07.2012 | Tawi                        |
+| 95.04.19.2002 | Kokondao                    |
+| 95.04.19.2010 | Gilo                        |
+| 95.04.19.2014 | Kanggineri                  |
+| 95.04.19.2015 | Wonoluk                     |
+| 95.04.19.2020 | Tinoweno                    |
+| 95.04.19.2021 | Mololowa                    |
+| 95.04.19.2022 | Kunipaga                    |
+| 95.04.19.2023 | Kabumanggen                 |
+| 95.04.19.2026 | Tomobur                     |
+| 95.04.29.2002 | Wari/Taiyeve                |
+| 95.04.29.2004 | Dotori                      |
+| 95.04.29.2006 | Kowari                      |
+| 95.04.30.2003 | Prawa                       |
+| 95.04.30.2004 | Sigou                       |
+| 95.04.30.2006 | Warka                       |
 
 
