@@ -16,7 +16,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |    ?/271  |    ?/1591  |
 | 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  169/171* | 1399/1414* |
 | 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |    ?/403  |    ?/2856  |
-| 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |    ?/172  |    ?/1341  |
+| 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |  172/172  | 1341/1341  |
 | 18      | Lampung                   |    13/13  |  2/2  | 229/229  |    ?/205  |    ?/2446  |
 | 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |   82/ 84* |  309/ 309  |
 | 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |  142/144* |  275/ 275  |
@@ -66,7 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
-* update data kode wilayah desa/kel di  Jambi (2507110845)
+* update data kode wilayah desa/kel di Jambi (2507110845)
 * update data kode wilayah desa/kel di Kepulauan Bangka Belitung (2507102320)
 * update data kode wilayah desa/kel di Kepulauan Riau (2507102245)
 * update data kode wilayah desa/kel di Kalimantan Utara (2507102206)
@@ -95,6 +95,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * update data kode wilayah kab/kota di Sulawesi dan Maluku (2507060534)
 * update data kode wilayah kab/kota di Papua (2507052339)
 * update data kode wilayah provinsi sesuai Kepmendagri No 300.2.2-2138 th 2025 (2507052334)
+
+### v1.0.1
 * mengubah SQL untuk DDL tabel wilayah_boundaries (2501120725)
 * menambahkan data desa/kel dari kab Fak-fak (2501022019)
 * memperbaiki sintak SQL di data kel/desa (2412312233)
