@@ -15,7 +15,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |  230/230  |  929/1035* |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |  268/271* | 1591/1591  |
 | 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  169/171* | 1399/1414* |
-| 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |    ?/403  |    ?/2856  |
+| 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |  387/403* | 2852/2856* |
 | 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |  172/172  | 1341/1341  |
 | 18      | Lampung                   |    13/13  |  2/2  | 229/229  |    ?/205  |    ?/2446  |
 | 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |   82/ 84* |  309/ 309  |
