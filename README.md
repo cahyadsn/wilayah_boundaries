@@ -21,7 +21,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |   82/ 84* |  309/ 309  |
 | 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |  142/144* |  275/ 275  |
 | 31      | DKI Jakarta               |     1/ 1  |  5/5  |  44/ 44  |  267/267  |     -      |
-| 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |    ?/646  |    ?/5311  |
+| 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |  646/646  | 5311/5311  |
 | 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |    ?/753  |    ?/7810  |
 | 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |   46/ 46  |  392/ 392  |
 | 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |    ?/773  |    ?/7721  |
@@ -66,6 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Jawa Barat (2507140959)
 * update data kode wilayah desa/kel di Lampung (2507140909)
 * update data kode wilayah desa/kel di Sumatera Selatan (2507132021)
 * update data kode wilayah desa/kel di Riau (2507112117)
