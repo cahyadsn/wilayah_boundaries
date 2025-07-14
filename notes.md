@@ -166,6 +166,17 @@
 | 16.74.02.1015 | Arimbi Jaya                 |
 | 16.74.05.1006 | Sidomulyo                   |
 | 16.74.05.1007 | Sidogede                    |
+| 18.09.02.2020 | Pujodadi                    |
+| 18.09.02.2021 | Grujugan Baru               |
+| 18.09.05.2032 | Dantar                      |
+| 18.09.11.2011 | Kalirejo                    |
+| 18.12.01.2020 | Marga Asri                  |
+| 18.12.01.2021 | Mekar Asri                  |
+| 18.12.03.2010 | Kagungan Ratu Agung         |
+| 18.12.03.2011 | Gading Kencana              |
+| 18.12.03.2012 | Karta Raya                  |
+| 18.12.03.2013 | Karta Tanjung Selamat       |
+| 18.12.06.2010 | Sido Agung                  |
 | 19.05.01.1008 | Keranggan                   |
 | 19.05.01.1009 | Menjelang                   |
 | 21.04.02.1002 | Daik Sepincan               |
