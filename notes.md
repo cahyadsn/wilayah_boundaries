@@ -183,6 +183,8 @@
 | 21.04.09.1004 | Berlian                     |
 | 33.05.11.2001 | Bojongsari                  |
 | 33.27.03.2013 | Sodong Basari               |
+| 35.01.10.2017 | Ketro Harjo                 |
+| 35.78.12.1006 | Tanjung Pera                |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
