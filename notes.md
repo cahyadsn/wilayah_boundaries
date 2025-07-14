@@ -181,6 +181,8 @@
 | 19.05.01.1009 | Menjelang                   |
 | 21.04.02.1002 | Daik Sepincan               |
 | 21.04.09.1004 | Berlian                     |
+| 33.05.11.2001 | Bojongsari                  |
+| 33.27.03.2013 | Sodong Basari               |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
