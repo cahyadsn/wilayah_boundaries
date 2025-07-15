@@ -28,7 +28,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |  314/314  | 1238/1238  |
 | 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |   80/ 80  |  636/ 636  |
 | 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |  145/145  | 1005/1021* |
-| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |    ?/305  |    ?/3137  |
+| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |  304/305* | 3048/3137* |
 | 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |    ?/ 99  |    ?/2046  |
 | 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |    ?/139  |    ?/1432  |
 | 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |    ?/144  |    ?/1872  |
@@ -66,6 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di NTT (2507151201)
 * update data kode wilayah desa/kel di NTB (2507151053)
 * update data kode wilayah desa/kel di Banten (2507141601)
 * update data kode wilayah desa/kel di Jawa Timur (2507141501)
