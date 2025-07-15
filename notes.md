@@ -185,6 +185,22 @@
 | 33.27.03.2013 | Sodong Basari               |
 | 35.01.10.2017 | Ketro Harjo                 |
 | 35.78.12.1006 | Tanjung Pera                |
+| 52.02.03.2011 | Lendang Tampel              |
+| 52.02.04.2017 | Dadap                       |
+| 52.02.04.2018 | Kerame Jati                 |
+| 52.02.06.2011 | Beleke Daye                 |
+| 52.02.06.2012 | Beleke Lebe Sane            |
+| 52.02.06.2013 | Pegonak                     |
+| 52.02.06.2014 | Jero Puri                   |
+| 52.02.07.2013 | Prako                       |
+| 52.02.07.2014 | Tibu Sisok                  |
+| 52.02.07.2015 | Janggawana                  |
+| 52.02.07.2016 | Lingkok Berenge             |
+| 52.02.09.2012 | Berinding                   |
+| 52.02.09.2013 | Pajangan                    |
+| 52.02.10.2013 | Lelong                      |
+| 52.02.11.2012 | Pandan Tinggang             |
+| 52.07.02.2021 | Lamunga                     |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
