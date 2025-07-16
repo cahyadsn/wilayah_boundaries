@@ -32,7 +32,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |   99/ 99  | 2031/2046* |
 | 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |  139/139  | 1432/1432  |
 | 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |  144/144  | 1864/1872* |
-| 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |    ?/197  |    ?/ 841  |
+| 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |  197/197  |  841/ 841  |
 | 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |   35/ 35  |  447/ 447  |
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |    ?/332  |    ?/1507  |
 | 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |    ?/175  |    ?/1842  |
@@ -66,6 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Kaltim (2507161124)
 * update data kode wilayah desa/kel di Kalsel (2507160941)
 * update data kode wilayah desa/kel di Kalteng (2507160839)
 * update data kode wilayah desa/kel di Kalbar (2507151620)
