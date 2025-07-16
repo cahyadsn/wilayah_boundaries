@@ -329,6 +329,11 @@
 | 81.05.16.2010 | Akat Fadedo                 |
 | 81.09.04.2016 | Waehotong                   |
 | 81.09.06.2011 | Batu Karang                 |
+| 82.01.05.2029 | Bobaneigo Madihutu          |
+| 82.01.05.2030 | Tetewang Joronga            |
+| 82.01.05.2031 | Akelamo Cinga-Cinga         |
+| 82.01.05.2032 | Akesahu Madutu              |
+| 82.71.06.1016 | Tongole                     |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
