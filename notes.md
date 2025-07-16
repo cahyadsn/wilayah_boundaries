@@ -306,6 +306,14 @@
 | 61.12.03.2014 | Ampera Raya                 |
 | 61.12.09.2014 | Rengas Kapuas               |
 | 61.12.09.2015 | Parit Keladi                |
+| 63.10.04.2027 | Sido Rejo                   |
+| 63.10.04.2028 | Beruntung Raya              |
+| 63.10.04.2029 | Barakat Mufakat             |
+| 63.10.04.2030 | Makmur Jaya                 |
+| 63.10.06.2013 | Hidayah Makmur              |
+| 63.10.06.2014 | Plajau Mulia                |
+| 63.10.06.2015 | Kupang Berkah Jaya          |
+| 63.10.07.2013 | Karang Nunggal              |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
