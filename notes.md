@@ -317,6 +317,18 @@
 | 73.15.09.1006 | Samaturue                   |
 | 73.22.11.2002 | Salulemo                    |
 | 73.24.06.2017 | Arolipu                     |
+| 81.05.16.2001 | Urung                       |
+| 81.05.16.2002 | Kwamor Kecil Ata            |
+| 81.05.16.2003 | Kwamor Kecil Mata Wawa      |
+| 81.05.16.2004 | Kwamor Besar Ena            |
+| 81.05.16.2005 | Kwamor Besar Witau          |
+| 81.05.16.2006 | Guli-Guli                   |
+| 81.05.16.2007 | Manggis                     |
+| 81.05.16.2008 | Ainena                      |
+| 81.05.16.2009 | Mugusinis                   |
+| 81.05.16.2010 | Akat Fadedo                 |
+| 81.09.04.2016 | Waehotong                   |
+| 81.09.06.2011 | Batu Karang                 |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
