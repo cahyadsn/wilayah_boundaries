@@ -314,6 +314,9 @@
 | 63.10.06.2014 | Plajau Mulia                |
 | 63.10.06.2015 | Kupang Berkah Jaya          |
 | 63.10.07.2013 | Karang Nunggal              |
+| 73.15.09.1006 | Samaturue                   |
+| 73.22.11.2002 | Salulemo                    |
+| 73.24.06.2017 | Arolipu                     |
 | 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
