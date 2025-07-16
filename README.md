@@ -36,8 +36,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |   35/ 35  |  447/ 447  |
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |  332/332  | 1507/1507  |
 | 72      | Sulawesi Tengah           |    12/12  |  1/1  | 175/177* |  175/175  | 1842/1842  |
-| 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |  792/793* | 2264/2266*  |
-| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |    ?/379  |    ?/1908  |
+| 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |  792/793* | 2264/2266* |
+| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |  376/379* | 1908/1908  |
 | 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |   72/ 72  |  657/ 657  |
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |    ?/ 73  |    ?/ 575  |
 | 81      | Maluku                    |     9/ 9  |  2/2  | 118/119* |    ?/ 35  |    ?/1200  |
@@ -66,6 +66,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi perubahan data nama wilayah
 
 ## CHANGE LOG
+* update data kode wilayah desa/kel di Sultra (2507170011)
 * update data kode wilayah desa/kel di Sulsel (2507161635)
 * update data kode wilayah desa/kel di Sulteng (2507161507)
 * update data kode wilayah desa/kel di Sulut (2507161350)
