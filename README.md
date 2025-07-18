@@ -61,11 +61,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
 ## TODO
-* update data desa/kelurahan sesuai Kepmendagri No 300.2.2-2138 th 2025
+* verifikasi perubahan dan update data nama wilayah desa/kelurahan sesuai Kepmendagri No 300.2.2-2138 th 2025
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
-* verifikasi perubahan data nama wilayah
 
 ## CHANGE LOG
+* update data nama wilayah prov/kab/kota (2507180859)
 * update data kode wilayah desa/kel di Malut (2507170536)
 * update data kode wilayah desa/kel di Maluku (2507170142)
 * update data kode wilayah desa/kel di Sulbar (2507170050)
