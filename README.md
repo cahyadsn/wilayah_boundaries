@@ -51,7 +51,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
-* )? data dalam pengecekan
 * Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
 * Karena keterbatasan resources, wilayah boundaries berupa multipoliygon yang di simplified, untuk resolusi yang lebih tinggi akan dibuatkan repo tersendiri
 
