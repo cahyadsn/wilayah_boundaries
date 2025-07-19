@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/61/wilayah_boundaries_kel_61.11.sql
 desc      : Data wilayah_boundaries kel 61.11
 created_at: 2024-11-30 21:50:19
-updated_at: 2025-07-15 13:55:22
+updated_at: 2025-07-19 10:29:10
 author    : cahya dsn
 ================================================================================
 MIT License
