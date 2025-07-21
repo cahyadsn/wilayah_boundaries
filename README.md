@@ -63,6 +63,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+### RELEASE 2025.7 (2507210844)
 * update data nama wilayah desa/kelurahan (2507192037)
 * update data nama wilayah prov/kab/kota (2507180859)
 * update data kode wilayah desa/kel di Malut (2507170536)
@@ -117,17 +118,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * update data kode wilayah kab/kota di Sulawesi dan Maluku (2507060534)
 * update data kode wilayah kab/kota di Papua (2507052339)
 * update data kode wilayah provinsi sesuai Kepmendagri No 300.2.2-2138 th 2025 (2507052334)
-
-### v1.0.1
-* mengubah SQL untuk DDL tabel wilayah_boundaries (2501120725)
-* menambahkan data desa/kel dari kab Fak-fak (2501022019)
-* memperbaiki sintak SQL di data kel/desa (2412312233)
-* menambahkan syntax SQL untuk DDL table wilayah_boundaries versi PostgresSQL (2412250949)
-* memperbaiki tanda di akhir file SQL untuk data kelurahan/desa  (done 24-12-30)
-* penambahan data boundaries kelurahan/desa (done 24-12-03)
-* penambahan data boundaries kecamatan (done 2024-11-25)
-* penambahan data boundaries kabupaten/kota (done 2024-11-24)
-* penambahan data boundaries provinsi (done 2024-11-21)
 
 ## DONASI
 - untuk donasi via transfer
