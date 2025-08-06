@@ -184,7 +184,7 @@
 | 33.05.11.2001 | Bojongsari                  |
 | 33.27.03.2013 | Sodong Basari               |
 | 35.01.10.2017 | Ketro Harjo                 |
-| 35.78.12.1006 | Tanjung Pera                |
+| 35.78.12.1006 | Tanjung Perak               |
 | 52.02.03.2011 | Lendang Tampel              |
 | 52.02.04.2017 | Dadap                       |
 | 52.02.04.2018 | Kerame Jati                 |
