@@ -63,6 +63,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* update koordinat lat.lng untuk Provinsi Kalimantan Selatan (mengacu pada UU No 8 Tahun 2022 tentang Provinsi Kalimantan Selatan, ibukota provinsi Banjarbaru) (2511180855)
+
 ### RELEASE 2025.7 (2507210844)
 * update data nama wilayah desa/kelurahan (2507192037)
 * update data nama wilayah prov/kab/kota (2507180859)
