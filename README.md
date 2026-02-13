@@ -63,6 +63,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* (2026-02-13 15:35:45] update data boundaries desa di kec TSombori Kepulauan,kab Banggai, prov. Selteng
 * (2026-02-13 14:42:48) update data boundaries desa di kec Toili Jaya,kab Banggai, prov. Selteng
 * (2511180855) update koordinat lat.lng untuk Provinsi Kalimantan Selatan (mengacu pada UU No 8 Tahun 2022 tentang Provinsi Kalimantan Selatan, ibukota provinsi Banjarbaru) 
 
