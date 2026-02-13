@@ -63,6 +63,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* [2026-02-13 23:24:01] update data boundaries desa di kec Moruj Mega,kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 23:07:58] update data boundaries desa di kec Wasirawi,kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 22:26:42] update data boundaries desa di kec Masni Utara,kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 17:16:00] update data boundaries desa di kec Mokwam,kab. Kabupaten Manokwari, prov. Papua Barat
