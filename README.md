@@ -63,6 +63,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* [2026-02-13 22:26:42] update data boundaries desa di kec Masni Utara,kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 17:16:00] update data boundaries desa di kec Mokwam,kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 17:06:32] update data boundaries desa di kec Aimasi, kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 15:35:45] update data boundaries desa di kec Ukar Sengan,kab Seram Bagian Timur, prov. Maluku
