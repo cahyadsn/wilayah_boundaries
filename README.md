@@ -69,8 +69,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * [2026-02-13 17:16:00] update data boundaries desa di kec Mokwam,kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 17:06:32] update data boundaries desa di kec Aimasi, kab. Kabupaten Manokwari, prov. Papua Barat
 * [2026-02-13 15:35:45] update data boundaries desa di kec Ukar Sengan,kab Seram Bagian Timur, prov. Maluku
-* [2026-02-13 15:35:45] update data boundaries desa di kec Sombori Kepulauan,kab Banggai, prov. Selteng
-* [2026-02-13 14:42:48] update data boundaries desa di kec Toili Jaya,kab Banggai, prov. Selteng
+* [2026-02-13 15:35:45] update data boundaries desa di kec Sombori Kepulauan,kab Banggai, prov. Sulteng
+* [2026-02-13 14:42:48] update data boundaries desa di kec Toili Jaya,kab Banggai, prov. Sulteng
 * (2511180855) update koordinat lat.lng untuk Provinsi Kalimantan Selatan (mengacu pada UU No 8 Tahun 2022 tentang Provinsi Kalimantan Selatan, ibukota provinsi Banjarbaru) 
 
 ### RELEASE 2025.7 (2507210844)
