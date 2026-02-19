@@ -5,7 +5,6 @@
 |---------------|:---------------------|
 |   72.01.24    | Toili Jaya           |
 |   72.06.20    | Sombori Kepulauan    |
-|   92.02.31    | Aimasi               |
 |   92.02.32    | Mokwam               |
 |   92.02.33    | Masni Utara          |
 |   92.02.34    | Wasirawi             |
