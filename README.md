@@ -63,6 +63,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* [2026-02-20 15:04:00] penambahan data boundaries kec. Sombori Kepulauan,kab Banggai, prov. Sulteng
 * [2026-02-19 15:07:53] penambahan data boundaries kec. Aimasi, kab Manokwari, prov. Papua Barat
 * [2026-02-18 14:17:27] penambahan data boundaries kec. Ukar Sengan, kab Seram Bagian Timur, prov. Maluku
 * [2026-02-13 23:24:01] update data boundaries desa di kec Moruj Mega,kab. Manokwari, prov. Papua Barat
