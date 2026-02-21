@@ -3,7 +3,6 @@
 ## KECAMATAN:
 |     kode      | nama                 |
 |---------------|:---------------------|
-|   72.01.24    | Toili Jaya           |
 |   92.02.32    | Mokwam               |
 |   92.02.33    | Masni Utara          |
 |   92.02.34    | Wasirawi             |
