@@ -5,7 +5,6 @@
 |---------------|:---------------------|
 |   92.02.32    | Mokwam               |
 |   92.02.33    | Masni Utara          |
-|   92.02.34    | Wasirawi             |
 
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
