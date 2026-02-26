@@ -35,19 +35,20 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |  197/197  |  841/ 841  |
 | 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |   35/ 35  |  447/ 447  |
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |  332/332  | 1507/1507  |
-| 72      | Sulawesi Tengah           |    12/12  |  1/1  | 177/177 |  175/175  | 1842/1842  |
+| 72      | Sulawesi Tengah           |    12/12  |  1/1  | 177/177  |  175/175  | 1842/1842  |
 | 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |  792/793* | 2264/2266* |
 | 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |  376/379* | 1908/1908  |
 | 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |   72/ 72  |  657/ 657  |
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |   73/ 73  |  575/ 575  |
-| 81      | Maluku                    |     9/ 9  |  2/2  | 119/119 |   35/ 35  | 1198/1200* |
+| 81      | Maluku                    |     9/ 9  |  2/2  | 119/119  |   35/ 35  | 1198/1200* |
 | 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |  117/118  | 1063/1067* |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |   51/ 51  |  947/ 948* |
-| 92      | Papua Barat               |     7/ 7  |   -   |  89/ 91* |   21/ 21  |  803/ 803  |
+| 92      | Papua Barat               |     7/ 7  |   -   |  90/ 91* |   21/ 21  |  803/ 803  |
 | 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  674/ 677* |
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
+|         | KEKURANGAN                |           |       |  (1)     |   (30)    |  (335)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -63,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* [2026-02-26 10:08:51] penambahan data boundaries kec. Mokwam,kab. Manokwari, prov. Papua Barat
 * [2026-02-24 17:58:18] penambahan data boundaries kec. Wasirawi,kab. Manokwari, prov. Papua Barat
 * [2026-02-21 15:25:24] penambahan data boundaries kec. Moruj Mega,kab. Manokwari, prov. Papua Barat
 * [2026-02-21 13:11:46] penambahan data boundaries kec. Toili Jaya,kab Banggai, prov. Sulteng
