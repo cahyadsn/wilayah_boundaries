@@ -43,12 +43,12 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 81      | Maluku                    |     9/ 9  |  2/2  | 119/119  |   35/ 35  | 1198/1200* |
 | 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |  117/118  | 1063/1067* |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |   51/ 51  |  947/ 948* |
-| 92      | Papua Barat               |     7/ 7  |   -   |  90/ 91* |   21/ 21  |  803/ 803  |
+| 92      | Papua Barat               |     7/ 7  |   -   |  91/ 91  |   21/ 21  |  803/ 803  |
 | 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  674/ 677* |
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |           |       |  (1)     |   (30)    |  (335)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (335)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* [2026-02-26 14:16:57] penambahan data boundaries kec. Masni Utara,kab. Manokwari, prov. Papua Barat
 * [2026-02-26 10:08:51] penambahan data boundaries kec. Mokwam,kab. Manokwari, prov. Papua Barat
 * [2026-02-24 17:58:18] penambahan data boundaries kec. Wasirawi,kab. Manokwari, prov. Papua Barat
 * [2026-02-21 15:25:24] penambahan data boundaries kec. Moruj Mega,kab. Manokwari, prov. Papua Barat
