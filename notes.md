@@ -113,10 +113,10 @@
 | 13.12.11.2002 | Padang Harapan              |
 | 13.12.11.2003 | Ranah Pasisie               |
 | 13.12.11.2004 | Maligi                      |
-| 15.09.02.2018 | Kemantan                    |
 | 14.72.03.1006 | Bagan Besar Timur           |
 | 14.72.03.1007 | Bukit Kapur                 |
 | 14.72.04.1006 | Sungai Geniot               |
+| 15.09.02.2018 | Kemantan                    |
 | 15.09.04.1009 | Sarana Agung                |
 | 15.09.04.1010 | Mandiri Agung               |
 | 15.09.04.2011 | Mekar Kencana               |
