@@ -7,7 +7,6 @@
 | 11.16.06.2021 | Alur Mentawa                |
 | 11.16.08.2017 | Mekar Jaya                  |
 | 11.16.11.2006 | Sumber Makmu                |
-| 11.73.03.2022 | Seuneubok                   |
 | 13.06.01.2004 | Durian Kapeh Darussalam     |
 | 13.06.03.2011 | Dalko                       |
 | 13.06.08.2008 | Sungai Cubadak              |
