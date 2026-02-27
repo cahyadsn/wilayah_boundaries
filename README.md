@@ -22,7 +22,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |  142/144* |  275/ 275  |
 | 31      | DKI Jakarta               |     1/ 1  |  5/5  |  44/ 44  |  267/267  |     -      |
 | 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |  646/646  | 5311/5311  |
-| 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |  753/753  | 7808/7810* |
+| 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |  753/753  | 7809/7810* |
 | 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |   46/ 46  |  392/ 392  |
 | 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |  772/773* | 7720/7721* |
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |  314/314  | 1238/1238  |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (333)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (332)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
+* [2026-02-27 15:49:47] penambahan data boundaries desa Bojongsari, Kec. Alian,kab. Kebumen, prov. Jawa Tengah
 * [2026-02-27 08:37:44] penambahan data boundaries desa Mukti Lincer, Kec. Kota Baharu,kab. Aceh Singkil, prov. Aceh
 * [2026-02-26 14:52:29] penambahan data boundaries desa Seuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
 * [2026-02-26 14:16:57] penambahan data boundaries kec. Masni Utara,kab. Manokwari, prov. Papua Barat

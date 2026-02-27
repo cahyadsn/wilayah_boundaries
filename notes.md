@@ -167,7 +167,6 @@
 | 19.05.01.1009 | Menjelang                   |
 | 21.04.02.1002 | Daik Sepincan               |
 | 21.04.09.1004 | Berlian                     |
-| 33.05.11.2001 | Bojongsari                  |
 | 33.27.03.2013 | Sodong Basari               |
 | 35.01.10.2017 | Ketro Harjo                 |
 | 35.78.12.1006 | Tanjung Perak               |
