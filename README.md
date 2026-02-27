@@ -10,7 +10,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 | id_prov | nama                      |    kab    | kota  |   kec    |    kel    |    desa    |
 |---------|:--------------------------|----------:|------:|----------|----------:|-----------:|
-| 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6496/6500* |
+| 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6497/6500* |
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |  693/693  | 5417/5417  |
 | 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |  230/230  |  929/1035* |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |  268/271* | 1591/1591  |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (334)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (333)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -64,7 +64,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * menambahkan data boundaries untuk krcamatan, desa/kelurahan yang belum ada datanya
 
 ## CHANGE LOG
-* [2026-02-26 14:52:29] penambahan data boundariesSeuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
+* [2026-02-27 08:37:44] penambahan data boundaries desa Mukti Lincer, Kec. Kota Baharu,kab. Aceh Singkil, prov. Aceh
+* [2026-02-26 14:52:29] penambahan data boundaries desa Seuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
 * [2026-02-26 14:16:57] penambahan data boundaries kec. Masni Utara,kab. Manokwari, prov. Papua Barat
 * [2026-02-26 10:08:51] penambahan data boundaries kec. Mokwam,kab. Manokwari, prov. Papua Barat
 * [2026-02-24 17:58:18] penambahan data boundaries kec. Wasirawi,kab. Manokwari, prov. Papua Barat

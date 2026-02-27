@@ -3,7 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 11.10.09.2009 | Mukti Lincer                |
 | 11.16.06.2021 | Alur Mentawa                |
 | 11.16.08.2017 | Mekar Jaya                  |
 | 11.16.11.2006 | Sumber Makmu                |
