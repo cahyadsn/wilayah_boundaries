@@ -65,26 +65,26 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
-* [2026-02-28 23:44:52] penambahan data boundaries desa Sodong Basari , Kec. Belik, Kab, Pemlang, Jawa Tengah
-* [2026-02-27 15:49:47] penambahan data boundaries desa Bojongsari, Kec. Alian,kab. Kebumen, prov. Jawa Tengah
-* [2026-02-27 08:37:44] penambahan data boundaries desa Mukti Lincer, Kec. Kota Baharu,kab. Aceh Singkil, prov. Aceh
-* [2026-02-26 14:52:29] penambahan data boundaries desa Seuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
-* [2026-02-26 14:16:57] penambahan data boundaries kec. Masni Utara,kab. Manokwari, prov. Papua Barat
-* [2026-02-26 10:08:51] penambahan data boundaries kec. Mokwam,kab. Manokwari, prov. Papua Barat
-* [2026-02-24 17:58:18] penambahan data boundaries kec. Wasirawi,kab. Manokwari, prov. Papua Barat
-* [2026-02-21 15:25:24] penambahan data boundaries kec. Moruj Mega,kab. Manokwari, prov. Papua Barat
-* [2026-02-21 13:11:46] penambahan data boundaries kec. Toili Jaya,kab Banggai, prov. Sulteng
-* [2026-02-20 15:04:00] penambahan data boundaries kec. Sombori Kepulauan,kab Banggai, prov. Sulteng
-* [2026-02-19 15:07:53] penambahan data boundaries kec. Aimasi, kab Manokwari, prov. Papua Barat
-* [2026-02-18 14:17:27] penambahan data boundaries kec. Ukar Sengan, kab Seram Bagian Timur, prov. Maluku
-* [2026-02-13 23:24:01] update data boundaries desa di kec Moruj Mega,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 23:07:58] update data boundaries desa di kec Wasirawi,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 22:26:42] update data boundaries desa di kec Masni Utara,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 17:16:00] update data boundaries desa di kec Mokwam,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 17:06:32] update data boundaries desa di kec Aimasi, kab. Manokwari, prov. Papua Barat
-* [2026-02-13 15:35:45] update data boundaries desa di kec Ukar Sengan,kab Seram Bagian Timur, prov. Maluku
-* [2026-02-13 15:35:45] update data boundaries desa di kec Sombori Kepulauan,kab Banggai, prov. Sulteng
-* [2026-02-13 14:42:48] update data boundaries desa di kec Toili Jaya,kab Banggai, prov. Sulteng
+* [2026-02-28 23:44:52] tambah data desa Sodong Basari , Kec. Belik, Kab, Pemalang, Jawa Tengah
+* [2026-02-27 15:49:47] tambah data desa Bojongsari, Kec. Alian,kab. Kebumen, prov. Jawa Tengah
+* [2026-02-27 08:37:44] tambah data desa Mukti Lincer, Kec. Kota Baharu,kab. Aceh Singkil, prov. Aceh
+* [2026-02-26 14:52:29] tambah data desa Seuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
+* [2026-02-26 14:16:57] tambah data kec. Masni Utara,kab. Manokwari, prov. Papua Barat
+* [2026-02-26 10:08:51] tambah data kec. Mokwam,kab. Manokwari, prov. Papua Barat
+* [2026-02-24 17:58:18] tambah data kec. Wasirawi,kab. Manokwari, prov. Papua Barat
+* [2026-02-21 15:25:24] tambah data kec. Moruj Mega,kab. Manokwari, prov. Papua Barat
+* [2026-02-21 13:11:46] tambah data kec. Toili Jaya,kab Banggai, prov. Sulteng
+* [2026-02-20 15:04:00] tambah data kec. Sombori Kepulauan,kab Banggai, prov. Sulteng
+* [2026-02-19 15:07:53] tambah data kec. Aimasi, kab Manokwari, prov. Papua Barat
+* [2026-02-18 14:17:27] tambah data kec. Ukar Sengan, kab Seram Bagian Timur, prov. Maluku
+* [2026-02-13 23:24:01] tambaha data desa2 di kec Moruj Mega,kab. Manokwari, prov. Papua Barat
+* [2026-02-13 23:07:58] update data desa di kec Wasirawi,kab. Manokwari, prov. Papua Barat
+* [2026-02-13 22:26:42] update data desa di kec Masni Utara,kab. Manokwari, prov. Papua Barat
+* [2026-02-13 17:16:00] update data desa di kec Mokwam,kab. Manokwari, prov. Papua Barat
+* [2026-02-13 17:06:32] update data desa di kec Aimasi, kab. Manokwari, prov. Papua Barat
+* [2026-02-13 15:35:45] update data desa di kec Ukar Sengan,kab Seram Bagian Timur, prov. Maluku
+* [2026-02-13 15:35:45] update data desa di kec Sombori Kepulauan,kab Banggai, prov. Sulteng
+* [2026-02-13 14:42:48] update data desa di kec Toili Jaya,kab Banggai, prov. Sulteng
 * (2511180855) update koordinat lat.lng untuk Provinsi Kalimantan Selatan (mengacu pada UU No 8 Tahun 2022 tentang Provinsi Kalimantan Selatan, ibukota provinsi Banjarbaru) 
 
 ### RELEASE 2025.7 (2507210844)
