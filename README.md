@@ -24,7 +24,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |  646/646  | 5311/5311  |
 | 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |  753/753  | 7810/7810  |
 | 34      | DI Yogyakarta             |     4/ 4  |  1/1  |  78/ 78  |   46/ 46  |  392/ 392  |
-| 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |  772/773* | 7720/7721* |
+| 35      | Jawa Timur                |    29/29  |  9/9  | 666/666  |  772/773* | 7721/7721  |
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |  314/314  | 1238/1238  |
 | 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |   80/ 80  |  636/ 636  |
 | 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |  145/145  | 1005/1021* |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (331)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (30)    |  (330)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,7 +65,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
-* [2026-02-28 23:44:52] tambah data desa Sodong Basari , Kec. Belik, Kab, Pemalang, Jawa Tengah
+* [2026-03-03 08:42:41] tambah data desa Ketro Harjo , Kec. Tulakan, Kab. Pacitan, Jawa Timur
+* [2026-02-28 23:44:52] tambah data desa Sodong Basari , Kec. Belik, Kab. Pemalang, Jawa Tengah
 * [2026-02-27 15:49:47] tambah data desa Bojongsari, Kec. Alian,kab. Kebumen, prov. Jawa Tengah
 * [2026-02-27 08:37:44] tambah data desa Mukti Lincer, Kec. Kota Baharu,kab. Aceh Singkil, prov. Aceh
 * [2026-02-26 14:52:29] tambah data desa Seuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
