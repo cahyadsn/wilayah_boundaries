@@ -167,7 +167,6 @@
 | 19.05.01.1009 | Menjelang                   |
 | 21.04.02.1002 | Daik Sepincan               |
 | 21.04.09.1004 | Berlian                     |
-| 35.78.12.1006 | Tanjung Perak               |
 | 52.02.03.2011 | Lendang Tampel              |
 | 52.02.04.2017 | Dadap                       |
 | 52.02.04.2018 | Kerame Jati                 |
