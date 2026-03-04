@@ -165,7 +165,6 @@
 | 18.12.06.2010 | Sido Agung                  |
 | 19.05.01.1008 | Keranggan                   |
 | 19.05.01.1009 | Menjelang                   |
-| 21.04.02.1002 | Daik Sepincan               |
 | 21.04.09.1004 | Berlian                     |
 | 52.02.03.2011 | Lendang Tampel              |
 | 52.02.04.2017 | Dadap                       |

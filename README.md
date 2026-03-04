@@ -19,7 +19,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |  172/172  | 1341/1341  |
 | 18      | Lampung                   |    13/13  |  2/2  | 229/229  |  205/205  | 2435/2446* |
 | 19      | Kepulauan Bangka Belitung |     6/ 6  |  1/1  |  47/ 47  |   82/ 84* |  309/ 309  |
-| 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |  142/144* |  275/ 275  |
+| 21      | Kepulauan Riau            |     5/ 5  |  2/2  |  80/ 80  |  143/144* |  275/ 275  |
 | 31      | DKI Jakarta               |     1/ 1  |  5/5  |  44/ 44  |  267/267  |     -      |
 | 32      | Jawa Barat                |    18/18  |  9/9  | 627/627  |  646/646  | 5311/5311  |
 | 33      | Jawa Tengah               |    29/29  |  6/6  | 576/576  |  753/753  | 7810/7810  |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |   (29)    |  (330)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (28)    |  (330)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* [2026-03-04 13:27:36] tambah data Kel. Daik Sepincan, Kec. Lingga, Kab. Lingga, Kepulauan Riau
 * [2026-03-03 08:42:41] tambah data Kel. Tanjung Perak, Kec. Pabean Cantian, Kota Suarabaya, Jawa Timur
 * [2026-03-03 08:42:41] tambah data desa Ketro Harjo , Kec. Tulakan, Kab. Pacitan, Jawa Timur
 * [2026-02-28 23:44:52] tambah data desa Sodong Basari , Kec. Belik, Kab. Pemalang, Jawa Tengah
