@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* [2026-03-05 08:33:22] update data Kel. Pulau Lalang, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
 * [2026-03-04 13:27:36] tambah data Kel. Berlian, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
 * [2026-03-04 13:27:36] tambah data Kel. Daik Sepincan, Kec. Lingga, Kab. Lingga, Kepulauan Riau
 * [2026-03-03 08:42:41] tambah data Kel. Tanjung Perak, Kec. Pabean Cantian, Kota Suarabaya, Jawa Timur
