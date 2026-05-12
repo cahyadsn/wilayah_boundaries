@@ -65,7 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
-* [2026-05-12 14:02:54] update data boundaries kab Sorong, Prov Papua Barat Data 
+* [2026-05-12 14:02:54] update data boundaries kab Sorong, Prov Papua Barat Daya 
 * [2026-03-05 08:33:22] update data Kel. Pulau Lalang, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
 * [2026-03-04 13:27:36] tambah data Kel. Berlian, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
 * [2026-03-04 13:27:36] tambah data Kel. Daik Sepincan, Kec. Lingga, Kab. Lingga, Kepulauan Riau
