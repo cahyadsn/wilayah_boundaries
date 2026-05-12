@@ -1,5 +1,5 @@
 # wilayah_boundaries
-Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2138 Tahun 2025
+Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/cahyadsn/wilayah_boundaries.svg)](https://github.com/cahyadsn/wilayah_boundaries/issues)
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* [2026-05-12 14:02:54] update data boundaries kab Sorong, Prov Papua Barat Data 
 * [2026-03-05 08:33:22] update data Kel. Pulau Lalang, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
 * [2026-03-04 13:27:36] tambah data Kel. Berlian, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
 * [2026-03-04 13:27:36] tambah data Kel. Daik Sepincan, Kec. Lingga, Kab. Lingga, Kepulauan Riau
