@@ -39,9 +39,10 @@ CREATE TABLE `wilayah_boundaries` (
   `lat` double DEFAULT NULL,
   `lng` double DEFAULT NULL,
   `path` longtext DEFAULT NULL,
-  `status` int DEFAULT NULL,
-  UNIQUE KEY `wilayah_boundaries_kode_IDX` (`kode`) USING BTREE
-) ENGINE=InnoDB;
+  `status` tinyint DEFAULT 1,
+  PRIMARY KEY (`kode`),
+  KEY `idx_wilayah_coords` (`lat`,`lng`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- PostgreSQL
 /*
@@ -52,7 +53,8 @@ CREATE TABLE "wilayah_boundaries" (
   "lat" DOUBLE PRECISION DEFAULT NULL,
   "lng" DOUBLE PRECISION DEFAULT NULL,
   "path" TEXT,
-  "status" INT2 DEFAULT NULL,
+  "status" INT2 DEFAULT 1,
   PRIMARY KEY ("kode")
 );
+CREATE INDEX "idx_wilayah_coords_pg" ON "wilayah_boundaries" ("lat", "lng");
 */
