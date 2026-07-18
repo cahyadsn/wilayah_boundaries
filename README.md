@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi data
 
 ## CHANGE LOG
+* [2026-07-18 22:47:27] optimasi klausa DELETE pada file SQL di folder prov agar sargable dengan memanfaatkan indeks primary key
 * [2026-07-17 11:32:12] optimasi skema database: menambahkan primary key pada kolom kode, mengubah tipe kolom status menjadi tinyint default 1, dan menambahkan indeks pada kolom koordinat (lat, lng)
 * [2026-05-12 14:02:54] update data boundaries kab Sorong, Prov Papua Barat Daya 
 * [2026-03-05 08:33:22] update data Kel. Pulau Lalang, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
