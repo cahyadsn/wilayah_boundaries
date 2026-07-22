@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-07-22 07:18:44] optimasi klausa DELETE pada file SQL di folder kab agar sargable dengan memanfaatkan indeks primary key
 * [2026-07-18 22:47:27] optimasi klausa DELETE pada file SQL di folder prov agar sargable dengan memanfaatkan indeks primary key
 * [2026-07-17 11:32:12] optimasi skema database: menambahkan primary key pada kolom kode, mengubah tipe kolom status menjadi tinyint default 1, dan menambahkan indeks pada kolom koordinat (lat, lng)
 * [2026-02-26 14:52:29] penambahan data boundariesSeuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
