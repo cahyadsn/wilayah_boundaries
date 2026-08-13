@@ -62,7 +62,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## TODO
 * menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
-* verifikasi data
+* verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
 * [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)
