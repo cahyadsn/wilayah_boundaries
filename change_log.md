@@ -1,5 +1,11 @@
 ## CHANGE LOG
 * [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)
+    - Banten (36.02 - Pandeglang): Moved Cikaratuan from Kec. Cigeulis (36.02.16.2018) to Kec. Cigemblong (36.02.28.2009).
+    - Sulawesi Tengah (72.06 - Morowali): Synchronized/updated codes for Matano (moved/synced to 72.06.20.2002 and added 72.06.05.1018) and Pulau Dua Darat (updated code from 72.06.06.2018 to 72.06.20.2013).
+    - Sulawesi Tenggara (74.05 - Konawe Selatan): Updated codes for Ranowila (from 74.05.07.2021 to 74.05.18.2006) and Wonuakoa (from 74.05.05.2028 to 74.05.24.2009 as Wonua Koa).
+    - Sulawesi Tenggara (74.07 - Bombana): Removed Rukuwa (74.07.07.1011).
+    - Papua Barat Daya (96.01 - Sorong): Updated code for Mobi (from 96. 01.04.2019 to 96.01.04.2009), removed Warmon (96.01.05.1006), and added Malagusa (96.01.05.1012).
+    - Papua Barat Daya (96.03 - Raja Ampat): Synchronized village sequence codes from .201x to .200x (e.g. Andey, Asukweri, Bonsayor, Darumbab, Kalisade, Saporkren, Yenbeser, Friwen, Wawiyai, Wamega, Jefman Timur, Waidim, Dabatan).
 * [2026-07-29 13:27:00] optimasi klausa DELETE pada file SQL di folder kec agar sargable dengan memanfaatkan indeks primary key
 * [2026-07-22 07:18:44] optimasi klausa DELETE pada file SQL di folder kab agar sargable dengan memanfaatkan indeks primary key
 * [2026-07-18 22:47:27] optimasi klausa DELETE pada file SQL di folder prov agar sargable dengan memanfaatkan indeks primary key
