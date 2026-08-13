@@ -62,7 +62,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## TODO
 * menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
-* verifikasi data
+* verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
 * [2026-07-29 13:27:00] optimasi klausa DELETE pada file SQL di folder kec agar sargable dengan memanfaatkan indeks primary key
