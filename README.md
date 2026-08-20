@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
+* [2026-08-20 22:22:26] optimasi klausa DELETE pada file SQL di folder kel agar sargable dengan memanfaatkan indeks primary key
 * [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)
 * [2026-07-29 13:27:00] optimasi klausa DELETE pada file SQL di folder kec agar sargable dengan memanfaatkan indeks primary key
 * [2026-07-22 07:18:44] optimasi klausa DELETE pada file SQL di folder kab agar sargable dengan memanfaatkan indeks primary key
