@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-08 13:41:18] tambah data boundaries desa2 di kabupaten Aceh Tamiang, prov. Aceh
 * [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)
     - Banten (36.02 - Pandeglang): Moved Cikaratuan from Kec. Cigeulis (36.02.16.2018) to Kec. Cigemblong (36.02.28.2009).
     - Sulawesi Tengah (72.06 - Morowali): Synchronized/updated codes for Matano (moved/synced to 72.06.20.2002 and added 72.06.05.1018) and Pulau Dua Darat (updated code from 72.06.06.2018 to 72.06.20.2013).
