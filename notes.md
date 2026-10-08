@@ -3,9 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 14.72.03.1006 | Bagan Besar Timur           |
-| 14.72.03.1007 | Bukit Kapur                 |
-| 14.72.04.1006 | Sungai Geniot               |
 | 15.09.02.2018 | Kemantan                    |
 | 15.09.04.1009 | Sarana Agung                |
 | 15.09.04.1010 | Mandiri Agung               |

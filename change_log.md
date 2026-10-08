@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-08 16:26:00] tambah data boundaries kelurahan2 di kota Dumai, prov. Riau
 * [2026-10-08 16:00:00] tambah data boundaries desa2 di kabupaten Pasaman Barat, prov. Sumatera Barat
 * [2026-10-08 14:26:12] tambah data boundaries desa2 di kabupaten Pasaman, prov. Sumatera Barat
 * [2026-10-08 14:07:08] tambah data boundaries desa2 di kabupaten Agam, prov. Sumatera Barat
