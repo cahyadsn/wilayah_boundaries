@@ -3,31 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 13.08.04.2007 | Koto Kaciak Barat           |
-| 13.08.05.2007 | Tanjuang Baringin Utara     |
-| 13.08.05.2008 | Tanjuang Baringin Selatan   |
-| 13.08.05.2009 | Aia Manggih Utara           |
-| 13.08.05.2010 | Aia Manggih Selatan         |
-| 13.08.05.2011 | Aia Manggih Barat           |
-| 13.08.05.2012 | Sundata Utara               |
-| 13.08.05.2013 | Sundata Selatan             |
-| 13.08.07.2005 | Panti Utara                 |
-| 13.08.08.2006 | Muaro Tais Koto Gadang      |
-| 13.08.12.2003 | Simpang Tonang Selatan      |
-| 13.08.12.2004 | Simpang Tonang Utara        |
-| 13.08.12.2005 | Cubadak Timur               |
-| 13.08.12.2006 | Cubadak Tengah              |
-| 13.08.12.2007 | Cubadak Barat               |
-| 13.08.13.2004 | Malampah Barat              |
-| 13.08.13.2005 | Ladang Panjang Barat        |
-| 13.08.14.2008 | Taruang Taruang Selatan     |
-| 13.08.14.2009 | Taruang Taruang Utara       |
-| 13.08.14.2010 | Padang Mantinggi Utara      |
-| 13.08.16.2003 | Alahan Mati Hilia           |
-| 13.08.16.2004 | Simpang Utara               |
-| 13.08.19.2004 | Lansek Kadok Barat          |
-| 13.08.19.2005 | Tanjung Betung Utara        |
-| 13.08.19.2006 | Tanjung Betung Timur        |
 | 13.12.02.2002 | Brastagi Ujung Gading       |
 | 13.12.02.2003 | Tampus Damai Ujung Gading   |
 | 13.12.02.2004 | Taluak Ambun Ujung Gading   |
