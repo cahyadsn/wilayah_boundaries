@@ -3,16 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 13.06.01.2004 | Durian Kapeh Darussalam     |
-| 13.06.03.2011 | Dalko                       |
-| 13.06.08.2008 | Sungai Cubadak              |
-| 13.06.08.2009 | Koto Gadang                 |
-| 13.06.10.2005 | Nan Limo                    |
-| 13.06.11.2007 | Salareh Aia Timur           |
-| 13.06.11.2008 | Salareh Aia Utara           |
-| 13.06.11.2009 | Salareh Aia Barat           |
-| 13.06.15.2004 | Kamang Tangah               |
-| 13.06.15.2005 | Pauh Kamang Mudiak          |
 | 13.08.04.2007 | Koto Kaciak Barat           |
 | 13.08.05.2007 | Tanjuang Baringin Utara     |
 | 13.08.05.2008 | Tanjuang Baringin Selatan   |

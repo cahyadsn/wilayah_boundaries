@@ -12,7 +12,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 |---------|:--------------------------|----------:|------:|----------|----------:|-----------:|
 | 11      | Aceh                      |    18/18  |  5/5  | 290/290  |     -     | 6500/6500  |
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |  693/693  | 5417/5417  |
-| 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |  230/230  |  929/1035* |
+| 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |  230/230  |  939/1035* |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |  268/271* | 1591/1591  |
 | 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  169/171* | 1399/1414* |
 | 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |  387/403* | 2852/2856* |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |   (27)    |  (327)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (27)    |  (317)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
+* [2026-10-08 14:07:08] tambah data boundaries desa2 di kabupaten Agam, prov. Sumatera Barat
 * [2026-10-08 13:41:18] tambah data boundaries desa2 di kabupaten Aceh Tamiang, prov. Aceh
 * [2026-08-20 22:22:26] optimasi klausa DELETE pada file SQL di folder kel agar sargable dengan memanfaatkan indeks primary key
 * [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)

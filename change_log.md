@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-08 14:07:08] tambah data boundaries desa2 di kabupaten Agam, prov. Sumatera Barat
 * [2026-10-08 13:41:18] tambah data boundaries desa2 di kabupaten Aceh Tamiang, prov. Aceh
 * [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)
     - Banten (36.02 - Pandeglang): Moved Cikaratuan from Kec. Cigeulis (36.02.16.2018) to Kec. Cigemblong (36.02.28.2009).
