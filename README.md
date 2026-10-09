@@ -14,7 +14,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 12      | Sumatera Utara            |    25/25  |  8/8  | 455/455  |  693/693  | 5417/5417  |
 | 13      | Sumatera Barat            |    12/12  |  7/7  | 179/179  |  230/230  | 1035/1035  |
 | 14      | Riau                      |    10/10  |  2/2  | 172/172  |  271/271  | 1591/1591  |
-| 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  169/171* | 1399/1414* |
+| 15      | Jambi                     |     9/ 9  |  2/2  | 144/144  |  171/171  | 1414/1414  |
 | 16      | Sumatera Selatan          |    13/13  |  4/4  | 241/241  |  387/403* | 2852/2856* |
 | 17      | Bengkulu                  |     9/ 9  |  1/1  | 129/129  |  172/172  | 1341/1341  |
 | 18      | Lampung                   |    13/13  |  2/2  | 229/229  |  205/205  | 2435/2446* |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |   (24)    |  (221)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |   (22)    |  (206)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,6 +65,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
+* [2026-10-09 07:15:00] tambah data boundaries desa/kel di kabupaten Tebo, prov. Jambi
+* [2026-10-08 16:26:00] tambah data boundaries kelurahan2 di kota Dumai, prov. Riau
+* [2026-10-08 16:00:00] tambah data boundaries desa2 di kabupaten Pasaman Barat, prov. Sumatera Barat
 * [2026-10-08 14:26:12] tambah data boundaries desa2 di kabupaten Pasaman, prov. Sumatera Barat
 * [2026-10-08 14:07:08] tambah data boundaries desa2 di kabupaten Agam, prov. Sumatera Barat
 * [2026-10-08 13:41:18] tambah data boundaries desa2 di kabupaten Aceh Tamiang, prov. Aceh

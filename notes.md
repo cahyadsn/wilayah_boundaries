@@ -3,23 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 15.09.02.2018 | Kemantan                    |
-| 15.09.04.1009 | Sarana Agung                |
-| 15.09.04.1010 | Mandiri Agung               |
-| 15.09.04.2011 | Mekar Kencana               |
-| 15.09.04.2012 | Purwo Dadi                  |
-| 15.09.04.2013 | Tegal Asri                  |
-| 15.09.04.2014 | Perintis Jaya               |
-| 15.09.04.2015 | Perintis Makmur             |
-| 15.09.04.2016 | Jaya Mulya                  |
-| 15.09.07.2007 | Mekar Sari                  |
-| 15.09.07.2008 | Wana Arum                   |
-| 15.09.07.2009 | Wana Mulya                  |
-| 15.09.07.2010 | Damai Makmur                |
-| 15.09.07.2011 | Suka Jaya                   |
-| 15.09.07.2012 | Sido Mulyo                  |
-| 15.09.08.2010 | Giri Mulyo                  |
-| 15.09.09.2006 | Lubuk Mandarsah Ulu         |
 | 16.03.11.2009 | Ujan Mas Ulu                |
 | 16.03.22.2002 | Arisan Musi                 |
 | 16.06.02.2016 | Epil Barat                  |
