@@ -3,8 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 16.03.11.2009 | Ujan Mas Ulu                |
-| 16.03.22.2002 | Arisan Musi                 |
 | 16.06.02.2016 | Epil Barat                  |
 | 16.06.06.2043 | Toman Baru                  |
 | 16.07.05.1022 | Betung Selatan              |
