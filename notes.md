@@ -3,22 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 16.07.05.1022 | Betung Selatan              |
-| 16.07.10.1024 | Sukajadi Timur              |
-| 16.07.10.1025 | Tanah Mas Indah             |
-| 16.07.10.1026 | Rawa Maju                   |
-| 16.07.10.1027 | Air Batu Jaya               |
-| 16.07.10.1028 | Sei Sedapat                 |
-| 16.07.10.1029 | Azhar Permai                |
-| 16.07.10.1030 | Keramat Raya                |
-| 16.74.01.1014 | Tebing Tanah Puteh          |
-| 16.74.02.1011 | Muara Dua Barat             |
-| 16.74.02.1012 | Gunung Ibul Timur           |
-| 16.74.02.1013 | Gunung Ibul Selatan         |
-| 16.74.02.1014 | Gunung Ibul Utara           |
-| 16.74.02.1015 | Arimbi Jaya                 |
-| 16.74.05.1006 | Sidomulyo                   |
-| 16.74.05.1007 | Sidogede                    |
 | 18.09.02.2020 | Pujodadi                    |
 | 18.09.02.2021 | Grujugan Baru               |
 | 18.09.05.2032 | Dantar                      |
