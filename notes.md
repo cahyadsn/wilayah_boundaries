@@ -3,8 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 19.05.01.1008 | Keranggan                   |
-| 19.05.01.1009 | Menjelang                   |
 | 52.02.03.2011 | Lendang Tampel              |
 | 52.02.04.2017 | Dadap                       |
 | 52.02.04.2018 | Kerame Jati                 |
