@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-13 08:05:00] tambah data boundaries desa2 di kabupaten Pesawaran dan Tulang Bawang Barat, prov. Lampung
 * [2026-10-12 16:04:00] tambah data boundaries desa/kel di kabupaten Banyuasin dan kota Prabumulih, prov. Sumatera Selatan
 * [2026-10-12 08:18:00] tambah data boundaries desa2 di kabupaten Musi Banyuasin, prov. Sumatera Selatan
 * [2026-10-09 07:28:00] tambah data boundaries desa2 di kabupaten Muara Enim, prov. Sumatera Selatan

@@ -3,17 +3,6 @@
 ## DESA/KELURAHAN:
 |      kode     | nama                        |
 |---------------|:----------------------------|
-| 18.09.02.2020 | Pujodadi                    |
-| 18.09.02.2021 | Grujugan Baru               |
-| 18.09.05.2032 | Dantar                      |
-| 18.09.11.2011 | Kalirejo                    |
-| 18.12.01.2020 | Marga Asri                  |
-| 18.12.01.2021 | Mekar Asri                  |
-| 18.12.03.2010 | Kagungan Ratu Agung         |
-| 18.12.03.2011 | Gading Kencana              |
-| 18.12.03.2012 | Karta Raya                  |
-| 18.12.03.2013 | Karta Tanjung Selamat       |
-| 18.12.06.2010 | Sido Agung                  |
 | 19.05.01.1008 | Keranggan                   |
 | 19.05.01.1009 | Menjelang                   |
 | 52.02.03.2011 | Lendang Tampel              |
