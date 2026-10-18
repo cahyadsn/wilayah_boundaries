@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/kel/52/wilayah_boundaries_kel_52.02.sql
 desc      : Data wilayah_boundaries kel 52.02 Kabupaten Lombok Tengah
 created_at: 2024-11-28 15:10:22
-updated_at: 2026-10-13 08:55:46
+updated_at: 2026-10-13 08:58:02
 author    : cahya dsn
 ================================================================================
 MIT License

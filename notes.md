@@ -93,21 +93,6 @@
 | 53.09.20.2011 | Ruto                        |
 | 53.09.20.2012 | Enabhara                    |
 | 53.09.20.2013 | Nagebaru                    |
-| 61.01.10.2012 | Arga Pura                   |
-| 61.01.10.2013 | Sapak Hulu Trans            |
-| 61.09.01.2018 | Sempulau Indah              |
-| 61.09.01.2019 | Tigur Jaya                  |
-| 61.09.01.2020 | Beringkai Raya              |
-| 61.09.03.2014 | Semerawai                   |
-| 61.09.03.2015 | Engkulun Hulu               |
-| 61.09.05.2010 | Sepantak                    |
-| 61.09.05.2011 | Melanjan Raya               |
-| 61.12.01.2021 | Sukulanting                 |
-| 61.12.01.2022 | Permata Jaya                |
-| 61.12.02.2006 | Padi Jaya                   |
-| 61.12.03.2014 | Ampera Raya                 |
-| 61.12.09.2014 | Rengas Kapuas               |
-| 61.12.09.2015 | Parit Keladi                |
 | 63.10.04.2027 | Sido Rejo                   |
 | 63.10.04.2028 | Beruntung Raya              |
 | 63.10.04.2029 | Barakat Mufakat             |

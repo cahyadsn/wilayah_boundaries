@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-18 11:52:00] tambah data boundaries desa2 di kabupaten Sambas, Sekadau, dan Kubu Raya, prov. Kalimantan Barat
 * [2026-10-13 08:58:00] tambah data boundaries desa2 di kabupaten Lombok Tengah dan Sumbawa Barat, prov. Nusa Tenggara Barat
 * [2026-10-13 08:14:00] tambah data boundaries kelurahan2 di kabupaten Bangka Barat, prov. Kepulauan Bangka Belitung
 * [2026-10-13 08:05:00] tambah data boundaries desa2 di kabupaten Pesawaran dan Tulang Bawang Barat, prov. Lampung
