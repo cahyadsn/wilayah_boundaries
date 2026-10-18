@@ -2,9 +2,9 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kel/63/wilayah_boundaries_kel_63.04.sql
-desc      : Data wilayah_boundaries kel 63.04
+desc      : Data wilayah_boundaries kel 63.04 Kabupaten Barito Kuala
 created_at: 2024-11-30 21:41:40
-updated_at: 2026-08-20 22:22:26
+updated_at: 2026-10-18 17:49:48
 author    : cahya dsn
 ================================================================================
 MIT License
@@ -27,7 +27,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-copyright (c) 2025 by cahya dsn; cahyadsn@gmail.com
+copyright (c) 2026 by cahya dsn; cahyadsn@gmail.com
 ================================================================================
 */
 DELETE FROM wilayah_boundaries WHERE kode LIKE '63.04.%' AND LENGTH(kode)=13;

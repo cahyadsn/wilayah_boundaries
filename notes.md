@@ -93,14 +93,6 @@
 | 53.09.20.2011 | Ruto                        |
 | 53.09.20.2012 | Enabhara                    |
 | 53.09.20.2013 | Nagebaru                    |
-| 63.10.04.2027 | Sido Rejo                   |
-| 63.10.04.2028 | Beruntung Raya              |
-| 63.10.04.2029 | Barakat Mufakat             |
-| 63.10.04.2030 | Makmur Jaya                 |
-| 63.10.06.2013 | Hidayah Makmur              |
-| 63.10.06.2014 | Plajau Mulia                |
-| 63.10.06.2015 | Kupang Berkah Jaya          |
-| 63.10.07.2013 | Karang Nunggal              |
 | 73.15.09.1006 | Samaturue                   |
 | 73.22.11.2002 | Salulemo                    |
 | 73.24.06.2017 | Arolipu                     |

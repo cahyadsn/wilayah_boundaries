@@ -31,7 +31,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |  304/305* | 3048/3137* |
 | 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |   99/ 99  | 2046/2046  |
 | 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |  139/139  | 1432/1432  |
-| 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |  144/144  | 1864/1872* |
+| 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |  144/144  | 1872/1872  |
 | 64      | Kalimantan Timur          |     7/ 7  |  3/3  | 105/105  |  197/197  |  841/ 841  |
 | 65      | Kalimantan Utara          |     4/ 4  |  1/1  |  55/ 55  |   35/ 35  |  447/ 447  |
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |  332/332  | 1507/1507  |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |    (4)    |  (160)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |    (4)    |  (152)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,6 +65,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
+* [2026-10-18 17:53:00] tambah data boundaries desa2 di kabupaten Tanah Bumbu, prov. Kalimantan Selatan
 * [2026-10-18 11:52:00] tambah data boundaries desa2 di kabupaten Sambas, Sekadau, dan Kubu Raya, prov. Kalimantan Barat
 * [2026-10-13 08:58:00] tambah data boundaries desa2 di kabupaten Lombok Tengah dan Sumbawa Barat, prov. Nusa Tenggara Barat
 * [2026-10-13 08:14:00] tambah data boundaries kelurahan2 di kabupaten Bangka Barat, prov. Kepulauan Bangka Belitung
