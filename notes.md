@@ -93,9 +93,6 @@
 | 53.09.20.2011 | Ruto                        |
 | 53.09.20.2012 | Enabhara                    |
 | 53.09.20.2013 | Nagebaru                    |
-| 73.15.09.1006 | Samaturue                   |
-| 73.22.11.2002 | Salulemo                    |
-| 73.24.06.2017 | Arolipu                     |
 | 81.05.16.2001 | Urung                       |
 | 81.05.16.2002 | Kwamor Kecil Ata            |
 | 81.05.16.2003 | Kwamor Kecil Mata Wawa      |
