@@ -93,7 +93,6 @@
 | 53.09.20.2011 | Ruto                        |
 | 53.09.20.2012 | Enabhara                    |
 | 53.09.20.2013 | Nagebaru                    |
-| 91.10.13.2003 | Waskey/Tanjung Batu         |
 | 93.04.10.2001 | Komor                       |
 | 93.04.18.2004 | Sato Yod                    |
 | 93.04.18.2006 | Ero Airo                    |
