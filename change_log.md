@@ -1,4 +1,6 @@
 ## CHANGE LOG
+* [2026-10-21 08:19:00] tambah data boundaries desa/kel di kabupaten Halmahera Barat dan kota Ternate, prov. Maluku Utara
+* [2026-10-21 08:06:00] tambah data boundaries desa2 di kabupaten Seram Bagian Timur dan Buru Selatan, prov. Maluku
 * [2026-10-19 06:53:00] tambah data boundaries desa/kel di kabupaten Pinrang, Luwu Utara, dan Luwu Timur, prov. Sulawesi Selatan
 * [2026-10-18 17:53:00] tambah data boundaries desa2 di kabupaten Tanah Bumbu, prov. Kalimantan Selatan
 * [2026-10-18 11:52:00] tambah data boundaries desa2 di kabupaten Sambas, Sekadau, dan Kubu Raya, prov. Kalimantan Barat

@@ -2,9 +2,9 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kel/81/wilayah_boundaries_kel_81.05.sql
-desc      : Data wilayah_boundaries kel 81.05
+desc      : Data wilayah_boundaries kel 81.05 Kabupaten Seram Bagian Timur
 created_at: 2024-11-30 22:10:21
-updated_at: 2026-08-20 22:22:26
+updated_at: 2026-10-21 07:45:27
 author    : cahya dsn
 ================================================================================
 MIT License
@@ -27,7 +27,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-copyright (c) 2025 by cahya dsn; cahyadsn@gmail.com
+copyright (c) 2026 by cahya dsn; cahyadsn@gmail.com
 ================================================================================
 */
 DELETE FROM wilayah_boundaries WHERE kode LIKE '81.05.%' AND LENGTH(kode)=13;
