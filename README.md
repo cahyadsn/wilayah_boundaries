@@ -61,8 +61,8 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
 ## TODO
-* menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
-* verifikasi dan validasi data kode wilayah
+* 🗹 menambahkan data boundaries untuk desa/kelurahan yang belum ada datanya
+* ☐ verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
 * [2026-10-21 08:19:00] tambah data boundaries desa/kel di kabupaten Halmahera Barat dan kota Ternate, prov. Maluku Utara
@@ -70,54 +70,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * [2026-10-19 06:53:00] tambah data boundaries desa/kel di kabupaten Pinrang, Luwu Utara, dan Luwu Timur, prov. Sulawesi Selatan
 * [2026-10-18 17:53:00] tambah data boundaries desa2 di kabupaten Tanah Bumbu, prov. Kalimantan Selatan
 * [2026-10-18 11:52:00] tambah data boundaries desa2 di kabupaten Sambas, Sekadau, dan Kubu Raya, prov. Kalimantan Barat
-* [2026-10-13 08:58:00] tambah data boundaries desa2 di kabupaten Lombok Tengah dan Sumbawa Barat, prov. Nusa Tenggara Barat
-* [2026-10-13 08:14:00] tambah data boundaries kelurahan2 di kabupaten Bangka Barat, prov. Kepulauan Bangka Belitung
-* [2026-10-13 08:05:00] tambah data boundaries desa2 di kabupaten Pesawaran dan Tulang Bawang Barat, prov. Lampung
-* [2026-10-12 16:04:00] tambah data boundaries desa/kel di kabupaten Banyuasin dan kota Prabumulih, prov. Sumatera Selatan
-* [2026-10-12 08:18:00] tambah data boundaries desa2 di kabupaten Musi Banyuasin, prov. Sumatera Selatan
-* [2026-10-09 07:28:00] tambah data boundaries desa2 di kabupaten Muara Enim, prov. Sumatera Selatan
-* [2026-10-09 07:15:00] tambah data boundaries desa/kel di kabupaten Tebo, prov. Jambi
-* [2026-10-08 16:26:00] tambah data boundaries kelurahan2 di kota Dumai, prov. Riau
-* [2026-10-08 16:00:00] tambah data boundaries desa2 di kabupaten Pasaman Barat, prov. Sumatera Barat
-* [2026-10-08 14:26:12] tambah data boundaries desa2 di kabupaten Pasaman, prov. Sumatera Barat
-* [2026-10-08 14:07:08] tambah data boundaries desa2 di kabupaten Agam, prov. Sumatera Barat
-* [2026-10-08 13:41:18] tambah data boundaries desa2 di kabupaten Aceh Tamiang, prov. Aceh
-* [2026-08-20 22:22:26] optimasi klausa DELETE pada file SQL di folder kel agar sargable dengan memanfaatkan indeks primary key
-* [2026-08-13 09:35:58] update data boundaries desa/kelurahan: sinkronisasi kode wilayah (Banten, Sulteng, Sultra, Papua Barat Daya)
-* [2026-07-29 13:27:00] optimasi klausa DELETE pada file SQL di folder kec agar sargable dengan memanfaatkan indeks primary key
-* [2026-07-22 07:18:44] optimasi klausa DELETE pada file SQL di folder kab agar sargable dengan memanfaatkan indeks primary key
-* [2026-07-18 22:47:27] optimasi klausa DELETE pada file SQL di folder prov agar sargable dengan memanfaatkan indeks primary key
-* [2026-07-17 11:32:12] optimasi skema database: menambahkan primary key pada kolom kode, mengubah tipe kolom status menjadi tinyint default 1, dan menambahkan indeks pada kolom koordinat (lat, lng)
-* [2026-05-12 14:02:54] update data boundaries kab Sorong, Prov Papua Barat Daya 
-* [2026-03-05 08:33:22] update data Kel. Pulau Lalang, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
-* [2026-03-04 13:27:36] tambah data Kel. Berlian, Kec. Singkep Selatan, Kab. Lingga, Kepulauan Riau
-* [2026-03-04 13:27:36] tambah data Kel. Daik Sepincan, Kec. Lingga, Kab. Lingga, Kepulauan Riau
-* [2026-03-03 08:42:41] tambah data Kel. Tanjung Perak, Kec. Pabean Cantian, Kota Suarabaya, Jawa Timur
-* [2026-03-03 08:42:41] tambah data desa Ketro Harjo , Kec. Tulakan, Kab. Pacitan, Jawa Timur
-* [2026-02-28 23:44:52] tambah data desa Sodong Basari , Kec. Belik, Kab. Pemalang, Jawa Tengah
-* [2026-02-27 15:49:47] tambah data desa Bojongsari, Kec. Alian,kab. Kebumen, prov. Jawa Tengah
-* [2026-02-27 08:37:44] tambah data desa Mukti Lincer, Kec. Kota Baharu,kab. Aceh Singkil, prov. Aceh
-* [2026-02-26 14:52:29] tambah data desa Seuneubok, Kec. Blang Mangat,kab. Lhokseumawe, prov. Aceh
-* [2026-02-26 14:16:57] tambah data kec. Masni Utara,kab. Manokwari, prov. Papua Barat
-* [2026-02-26 10:08:51] tambah data kec. Mokwam,kab. Manokwari, prov. Papua Barat
-* [2026-02-24 17:58:18] tambah data kec. Wasirawi,kab. Manokwari, prov. Papua Barat
-* [2026-02-21 15:25:24] tambah data kec. Moruj Mega,kab. Manokwari, prov. Papua Barat
-* [2026-02-21 13:11:46] tambah data kec. Toili Jaya,kab Banggai, prov. Sulteng
-* [2026-02-20 15:04:00] tambah data kec. Sombori Kepulauan,kab Banggai, prov. Sulteng
-* [2026-02-19 15:07:53] tambah data kec. Aimasi, kab Manokwari, prov. Papua Barat
-* [2026-02-18 14:17:27] tambah data kec. Ukar Sengan, kab Seram Bagian Timur, prov. Maluku
-* [2026-02-13 23:24:01] tambaha data desa2 di kec Moruj Mega,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 23:07:58] update data desa di kec Wasirawi,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 22:26:42] update data desa di kec Masni Utara,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 17:16:00] update data desa di kec Mokwam,kab. Manokwari, prov. Papua Barat
-* [2026-02-13 17:06:32] update data desa di kec Aimasi, kab. Manokwari, prov. Papua Barat
-* [2026-02-13 15:35:45] update data desa di kec Ukar Sengan,kab Seram Bagian Timur, prov. Maluku
-* [2026-02-13 15:35:45] update data desa di kec Sombori Kepulauan,kab Banggai, prov. Sulteng
-* [2026-02-13 14:42:48] update data desa di kec Toili Jaya,kab Banggai, prov. Sulteng
-* (2511180855) update koordinat lat.lng untuk Provinsi Kalimantan Selatan (mengacu pada UU No 8 Tahun 2022 tentang Provinsi Kalimantan Selatan, ibukota provinsi Banjarbaru) 
-
-### RELEASE 2025.7 (2507210844)
-
 
 ## DONASI
 - untuk donasi via transfer
