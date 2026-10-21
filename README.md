@@ -28,7 +28,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 36      | Banten                    |     4/ 4  |  4/4  | 155/155  |  314/314  | 1238/1238  |
 | 51      | Bali                      |     8/ 8  |  1/1  |  57/ 57  |   80/ 80  |  636/ 636  |
 | 52      | Nusa Tenggara Barat       |     8/ 8  |  2/2  | 117/117  |  145/145  | 1021/1021  |
-| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |  304/305* | 3048/3137* |
+| 53      | Nusa Tenggara Timur       |    21/21  |  1/1  | 315/315  |  305/305  | 3137/3137  |
 | 61      | Kalimantan Barat          |    12/12  |  2/2  | 174/174  |   99/ 99  | 2046/2046  |
 | 62      | Kalimantan Tengah         |    13/13  |  1/1  | 136/136  |  139/139  | 1432/1432  |
 | 63      | Kalimantan Selatan        |    11/11  |  2/2  | 156/156  |  144/144  | 1872/1872  |
@@ -37,7 +37,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |  332/332  | 1507/1507  |
 | 72      | Sulawesi Tengah           |    12/12  |  1/1  | 177/177  |  175/175  | 1842/1842  |
 | 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |  793/793  | 2266/2266  |
-| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |  376/379* | 1908/1908  |
+| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |  377/379* | 1908/1908  |
 | 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |   72/ 72  |  657/ 657  |
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |   73/ 73  |  575/ 575  |
 | 81      | Maluku                    |     9/ 9  |  2/2  | 119/119  |   35/ 35  | 1200/1200  |
@@ -48,7 +48,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |    (2)    |  (143)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |     -     |   (54)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,11 +65,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * ☐ verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
+* [2026-10-21 09:51:00] tambah data boundaries kelurahan di kota Kendari, prov. Sulawesi Tenggara
 * [2026-10-21 09:05:00] tambah data boundaries desa di kabupaten Sarmi, prov. Papua
 * [2026-10-21 08:19:00] tambah data boundaries desa/kel di kabupaten Halmahera Barat dan kota Ternate, prov. Maluku Utara
 * [2026-10-21 08:06:00] tambah data boundaries desa2 di kabupaten Seram Bagian Timur dan Buru Selatan, prov. Maluku
 * [2026-10-19 06:53:00] tambah data boundaries desa/kel di kabupaten Pinrang, Luwu Utara, dan Luwu Timur, prov. Sulawesi Selatan
-* [2026-10-18 17:53:00] tambah data boundaries desa2 di kabupaten Tanah Bumbu, prov. Kalimantan Selatan
 
 ## DONASI
 - untuk donasi via transfer
