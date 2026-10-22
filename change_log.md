@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-22 09:53:00] tambah data boundaries desa di kabupaten Asmat, prov. Papua Selatan
 * [2026-10-21 09:51:00] tambah data boundaries kelurahan di kota Kendari, prov. Sulawesi Tenggara
 * [2026-10-21 09:05:00] tambah data boundaries desa di kabupaten Sarmi, prov. Papua
 * [2026-10-21 08:19:00] tambah data boundaries desa/kel di kabupaten Halmahera Barat dan kota Ternate, prov. Maluku Utara

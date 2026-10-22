@@ -44,11 +44,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 82      | Maluku Utara              |     8/ 8  |  2/2  | 118/118  |  118/118  | 1067/1067  |
 | 91      | Papua                     |     8/ 8  |  1/1  | 105/105  |   51/ 51  |  948/ 948  |
 | 92      | Papua Barat               |     7/ 7  |   -   |  91/ 91  |   21/ 21  |  803/ 803  |
-| 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  674/ 677* |
+| 93      | Papua Selatan             |     4/ 4  |   -   |  82/ 82  |   13/ 13  |  677/ 677  |
 | 94      | Papua Tengah              |     8/ 8  |   -   | 131/131  |   36/ 36  | 1154/1172* |
 | 95      | Papua Pegunungan          |     8/ 8  |   -   | 252/252  |   10/ 10  | 2583/2617* |
 | 96      | Papua Barat Daya          |     5/ 5  |  1/1  | 132/132  |   74/ 74  |  939/ 939  |
-|         | KEKURANGAN                |      -    |   -   |    -     |     -     |   (54)     |
+|         | KEKURANGAN                |      -    |   -   |    -     |     -     |   (51)     |
 
 ## NOTE
 * )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
@@ -65,11 +65,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 * ☐ verifikasi dan validasi data kode wilayah
 
 ## CHANGE LOG
+* [2026-10-22 09:53:00] tambah data boundaries desa di kabupaten Asmat, prov. Papua Selatan
 * [2026-10-21 09:51:00] tambah data boundaries kelurahan di kota Kendari, prov. Sulawesi Tenggara
 * [2026-10-21 09:05:00] tambah data boundaries desa di kabupaten Sarmi, prov. Papua
 * [2026-10-21 08:19:00] tambah data boundaries desa/kel di kabupaten Halmahera Barat dan kota Ternate, prov. Maluku Utara
 * [2026-10-21 08:06:00] tambah data boundaries desa2 di kabupaten Seram Bagian Timur dan Buru Selatan, prov. Maluku
-* [2026-10-19 06:53:00] tambah data boundaries desa/kel di kabupaten Pinrang, Luwu Utara, dan Luwu Timur, prov. Sulawesi Selatan
 
 ## DONASI
 - untuk donasi via transfer
