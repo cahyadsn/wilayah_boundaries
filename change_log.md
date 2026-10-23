@@ -1,4 +1,5 @@
 ## CHANGE LOG
+* [2026-10-23 08:04:00] tambah data boundaries desa di kabupaten Puncak Jaya, Paniai, dan Puncak, prov. Papua Tengah
 * [2026-10-22 09:53:00] tambah data boundaries desa di kabupaten Asmat, prov. Papua Selatan
 * [2026-10-21 09:51:00] tambah data boundaries kelurahan di kota Kendari, prov. Sulawesi Tenggara
 * [2026-10-21 09:05:00] tambah data boundaries desa di kabupaten Sarmi, prov. Papua
