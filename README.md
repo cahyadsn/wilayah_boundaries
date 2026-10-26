@@ -37,7 +37,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 71      | Sulawesi Utara            |    11/11  |  4/4  | 171/171  |  332/332  | 1507/1507  |
 | 72      | Sulawesi Tengah           |    12/12  |  1/1  | 177/177  |  175/175  | 1842/1842  |
 | 73      | Sulawesi Selatan          |    21/21  |  3/3  | 313/313  |  793/793  | 2266/2266  |
-| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |  377/379* | 1908/1908  |
+| 74      | Sulawesi Tenggara         |    15/15  |  2/2  | 221/221  |  379/379  | 1908/1908  |
 | 75      | Gorontalo                 |     5/ 5  |  1/1  |  77/ 77  |   72/ 72  |  657/ 657  |
 | 76      | Sulawesi Barat            |     6/ 6  |  0/0  |  69/ 69  |   73/ 73  |  575/ 575  |
 | 81      | Maluku                    |     9/ 9  |  2/2  | 119/119  |   35/ 35  | 1200/1200  |
@@ -51,7 +51,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 |         | KEKURANGAN                |      -    |   -   |    -     |     -     |     -      |
 
 ## NOTE
-* )* data belum lengkap https://github.com/cahyadsn/wilayah_boundaries/blob/main/notes.md
 * Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
 * Karena keterbatasan resources, wilayah boundaries berupa multipoliygon yang di simplified, untuk resolusi yang lebih tinggi akan dibuatkan repo tersendiri
 
